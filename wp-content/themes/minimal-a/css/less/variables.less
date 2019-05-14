@@ -1,0 +1,49 @@
+/***********************************************************************************************/
+/* LESS VARIABLES */
+/***********************************************************************************************/
+@regular-text: 	#2B2B2B;	// Regular text
+@primary: 		#E34E47;	// Link and primary button
+@light-text: 	#7A7A7A;	// Light text
+@light-bg: 		#F7F7F7; 	// Very light BG
+@border: 		#DCDBDB;	// Border color
+@dark-bg: 		#1A2128;	// Dark BG
+@dark-bg-text: 	#687078;	// Text on dark BG
+@intro-color-1: #2eb4e8;	// Blue color from the second intro block
+@intro-color-2: #a6c63a;	// Green color from the third intro block
+@error:			red;		// Error
+@light-error:	lighten(@error, 48%); // Erorr BG
+
+
+
+
+/***********************************************************************************************/
+/* LESS MIXINS */
+/***********************************************************************************************/
+.round (@radius: 5px) {
+	-moz-border-radius:		@radius;
+	-webkit-border-radius:  @radius;
+	border-radius:			@radius;
+
+	-moz-background-clip:	 padding;
+	-webkit-background-clip: padding-box;
+	background-clip:		 padding-box;
+}
+
+.drop-shadow (@x: 0, @y: 0px, @blur: 5px, @spread: 0, @alpha: 0.16) {
+	-webkit-box-shadow: @x @y @blur @spread rgba(0, 0, 0, @alpha);
+	-moz-box-shadow: 	@x @y @blur @spread rgba(0, 0, 0, @alpha);
+	box-shadow: 		@x @y @blur @spread rgba(0, 0, 0, @alpha);
+}
+
+.inner-shadow (@x: 0, @y: 0px, @blur: 5px, @spread: 0, @alpha: 0.2) {
+	-webkit-box-shadow: inset @x @y @blur @spread rgba(0, 0, 0, @alpha);
+	-moz-box-shadow: 	inset @x @y @blur @spread rgba(0, 0, 0, @alpha);
+	box-shadow: 		inset @x @y @blur @spread rgba(0, 0, 0, @alpha);
+}
+
+.transition (@property: color, @duration: .2s) {
+	-webkit-transition: @property @duration ease-out; 
+	-moz-transition: 	@property @duration ease-out; 
+	-o-transition: 		@property @duration ease-out;
+	transition: 		@property @duration ease-out;
+}
