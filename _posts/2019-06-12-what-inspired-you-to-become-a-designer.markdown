@@ -1,7 +1,6 @@
 ---
 title: What inspired you to become a designer?
 date: 2019-06-12 16:21:00 -04:00
-permalink: "/thoughts/biography"
 ---
 
 In many ways, I never found design, rather it found me. Of course, growing up I had no idea design even existed! Eventually I discovered what laid at the intersection of my interests had a name, and it was interactive design.
