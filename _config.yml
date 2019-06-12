@@ -2,6 +2,9 @@
 title: Your awesome title
 timezone: UTC
 collections:
+  book:
+    title: Books
+    output: false
   posts:
     title: Posts
     output: true
