@@ -30,3 +30,4 @@ github_username: albrechtnate
 theme: minima
 plugins:
 - jekyll-feed
+permalink: pretty
