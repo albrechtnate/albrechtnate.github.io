@@ -23,6 +23,11 @@ defaults:
     Edition Number: 
     Amazon Item ID: 
     Goodreads Item ID: 
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/thoughts/:title/"
 email: nathanielalbrecht@gmail.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
