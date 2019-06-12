@@ -5,14 +5,14 @@ collections:
   book:
     title: Books
     output: false
+  work:
+    title: Portfolio
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  work:
-    title: Work
     output: true
 defaults:
 - scope:
