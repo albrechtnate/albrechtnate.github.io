@@ -2,9 +2,9 @@
 title: Nathan Albrecht Portfolio
 timezone: America/New_York
 collections:
-  books:
+  book:
     title: Books
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
