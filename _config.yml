@@ -30,7 +30,7 @@ description: Write an awesome description for your new site here. You can edit t
 twitter_username: albrechtnate
 github_username: albrechtnate
 permalink: "/:title/"
-theme: minima
+theme: 
 plugins:
 - jekyll-seo-tag
 baseurl: 
