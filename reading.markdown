@@ -1,6 +1,7 @@
 ---
 title: Reading
 date: 2019-06-12 10:57:00 -04:00
+position: 2
 ---
 
 # Books I’ve read (and loved) that shape my thoughts on design
