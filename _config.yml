@@ -2,12 +2,12 @@
 title: Nathan Albrecht Portfolio
 timezone: America/New_York
 collections:
-  posts:
-    title: Posts
-    output: true
   thoughts:
     title: Thoughts
     output: false
+  posts:
+    title: Thoughts2
+    output: true
   uploads:
     title: Uploads
     output: true
