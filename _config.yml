@@ -6,6 +6,9 @@ collections:
     title: Books
     output: false
   posts:
+    title: Posts
+    output: true
+  thoughts:
     title: Thoughts
     output: true
   uploads:
