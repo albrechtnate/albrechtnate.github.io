@@ -1,6 +1,7 @@
 ---
 title: Fontspring Homepage
 date: 2019-06-12 12:00:00 -04:00
+layout: default
 ---
 
 While interning with Fontspring I was tasked with redesigning their homepage. The existing homepage promoted a few of the best fonts in their catalogue, but it lacked in its ability to communicate to visitors why they should buy the fonts from Fontspring as opposed to another distributor. I began the project by interviewing a number of the stakeholders in this project to understand what they hoped the new homepage would accomplish. I read user feedback and studied any patterns that existed in our analytics data.
