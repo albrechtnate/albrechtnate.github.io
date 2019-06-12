@@ -6,7 +6,7 @@ Posts:
 - Category: Placeholder
   Posts:
   - What inspired you to become a designer?
-layout: thoughts
+layout: default
 ---
 
 Occasionally I share my perspective on the interactive design space, design process, and experiences in design and life.
