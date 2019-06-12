@@ -31,4 +31,6 @@ twitter_username: albrechtnate
 github_username: albrechtnate
 permalink: "/:title/"
 theme: minima
+plugins:
+- jekyll-seo-tag
 baseurl: 
