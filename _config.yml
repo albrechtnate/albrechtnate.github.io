@@ -29,6 +29,6 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 twitter_username: albrechtnate
 github_username: albrechtnate
-permalink: pretty
+permalink: "/:title/"
 theme: minima
 baseurl: 
