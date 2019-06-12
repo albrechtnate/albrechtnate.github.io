@@ -8,7 +8,6 @@ collections:
   posts:
     title: Thoughts
     output: true
-    permalink: /thoughts/:name
   uploads:
     title: Uploads
     output: true
