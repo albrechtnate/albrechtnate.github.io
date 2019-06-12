@@ -8,7 +8,7 @@ Posts:
   - What inspired you to become a designer?
 - Category Title: Favorites and Recommendations
   Thought:
-  - 
+  - My top ten favorite typefaces
 layout: thoughts
 ---
 
