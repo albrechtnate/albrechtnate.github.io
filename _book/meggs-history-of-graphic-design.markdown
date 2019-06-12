@@ -1,6 +1,6 @@
 ---
 title: Megg’s History of Graphic Design
-date: 2019-06-11 22:20:00 -04:00
+date: 2019-06-12 02:20:00 Z
 Author(s): Phillip B. Meggs
 Edition Number: 5th
 Amazon Item ID: '0470168730'
