@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-Hi Mars!
+Hi Mars! {{site.url}}
