@@ -6,7 +6,7 @@ collections:
     title: Books
     output: false
   posts:
-    title: Posts
+    title: Thoughts
     output: true
   uploads:
     title: Uploads
