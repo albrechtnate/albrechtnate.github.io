@@ -6,12 +6,41 @@ Thoughts:
 - Category Title: Get to know me
   Thoughts:
   - What inspired you to become a designer?
-  - Something Else
+  - My life goals bucket list
+  - Fun facts about me
 - Category Title: Favorites and Recommendations
   Thoughts:
+  - What books have you read that you recommend?
+  - What podcasts do you listen to and recommend?
   - My top ten favorite typefaces
 - Category Title: On Life
-  Thought: 
+  Thoughts:
+  - My experience as a design intern
+  - My experience studying design in college
+  - What advice would you give to a college freshman?
+- Category Title: On Process
+  Thoughts:
+  - How I get inspiration and its role in the design process
+  - What does your design process look like?
+  - What design software and tools do you use?
+  - Handling Critique
+  - When do you know when a design is complete?
+- Category Title: On Visual Design
+  Thoughts:
+  - How do you learn graphic and interactive design?
+  - Essential typography tips to transform your designs
+  - 10 Designers/Front-end Developers I Admire
+- Category Title: On User Experience
+  Thoughts:
+  - User Experience—What is it and what does it entail?
+  - Adding a bit of Disney magic to our websites and apps
+  - How to conduct usability testing
+  - Lessons learned in A/B Testing
+- Category Title: On Development
+  Thoughts:
+  - DMX.js—WebUSB-powered lighting control  (Senior Capstone)
+  - Getting started with WebGL
+  - Resources to stay current in web development
 layout: thoughts
 ---
 
