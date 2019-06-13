@@ -4,7 +4,21 @@ layout: default
 
 {{ content }}
 <ul>
-  {% for category in posts %}
-    <li>{{category.Category}}</li>
-  {% endfor %}
+{%- for category in page.Thoughts -%}
+{%- assign category_title_length = category['Category Title'] | size -%}
+{%- assign category_array_length = category.Thought | size -%}
+{%- if category_title_length > 0  and category_array_length > 0 -%}
+	<li>
+			<h2>{{ category['Category Title'] }}</h2>
+			<ul>
+			{%- for title in category.Thought -%}
+			{%- assign thought = site.posts | where: 'title', title | first -%}
+			{%- if thought -%}
+				<li><a href="{{ thought.url | relative_url }}">{{ thought.title | escape }}</a></li>
+			{%- endif -%}
+			{%- endfor -%}
+			</ul>
+	</li>
+{%- endif -%}
+{%- endfor -%}
 </ul>

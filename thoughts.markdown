@@ -2,13 +2,16 @@
 title: Thoughts
 date: 2019-06-12 11:53:00 -04:00
 position: 2
-Posts:
+Thoughts:
 - Category Title: Get to know me
   Thought:
   - What inspired you to become a designer?
+  - Something Else
 - Category Title: Favorites and Recommendations
   Thought:
   - My top ten favorite typefaces
+- Category Title: On Life
+  Thought: 
 layout: thoughts
 ---
 
