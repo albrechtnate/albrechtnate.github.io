@@ -6,12 +6,12 @@ layout: default
 <ul>
 {%- for category in page.Thoughts -%}
 {%- assign category_title_length = category['Category Title'] | size -%}
-{%- assign category_array_length = category.Thought | size -%}
+{%- assign category_array_length = category.Thoughts | size -%}
 {%- if category_title_length > 0  and category_array_length > 0 -%}
 	<li>
 			<h2>{{ category['Category Title'] }}</h2>
 			<ul>
-			{%- for title in category.Thought -%}
+			{%- for title in category.Thoughts -%}
 			{%- assign thought = site.posts | where: 'title', title | first -%}
 			{%- if thought -%}
 				<li><a href="{{ thought.url | relative_url }}">{{ thought.title | escape }}</a></li>
