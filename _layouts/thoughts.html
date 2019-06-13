@@ -13,7 +13,7 @@ layout: default
 			<ul>
 			{%- for title in category.Thoughts -%}
 			{%- assign thought = site.posts | where: 'title', title | first -%}
-			{%- if thought -%}
+			{%- if thought and published != false -%}
 				<li><a href="{{ thought.url | relative_url }}">{{ thought.title | escape }}</a></li>
 			{%- endif -%}
 			{%- endfor -%}
