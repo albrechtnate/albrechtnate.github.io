@@ -19,19 +19,19 @@ defaults:
     path: ''
     type: book
   values:
-    Subtitle:
+    Subtitle: 
     Author(s):
     - 
-    Edition Number:
-    Amazon Item ID:
-    Goodreads Item ID:
+    Edition Number: 
+    Amazon Item ID: 
+    Goodreads Item ID: 
     Is Favorite: false
     Cover Image:
-      WebP 400h Image:
-      JPG 400h Image:
-      WebP 200h Image:
-      JPG 200h Image:
-    Notes URL:
+      WebP 400h Image: 
+      JPG 400h Image: 
+      WebP 200h Image: 
+      JPG 200h Image: 
+    Notes URL: 
 - scope:
     path: ''
     type: posts
