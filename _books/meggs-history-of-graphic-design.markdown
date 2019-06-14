@@ -1,8 +1,6 @@
 ---
 title: Megg’s History of Graphic Design
 date: 2019-06-11 22:20:00 -04:00
-categories:
-- Design History
 position: 1
 Author(s):
 - Phillip B. Meggs
