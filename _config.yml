@@ -17,10 +17,11 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: book
+    type: books
   values:
     Subtitle: 
-    Author(s): 
+    Author(s):
+    - 
     Edition Number: 
     Amazon Item ID: 
     Goodreads Item ID: 
