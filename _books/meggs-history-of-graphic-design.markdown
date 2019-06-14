@@ -18,4 +18,8 @@ Cover Image:
   JPG 200h Image: "/uploads/Meggs-History-of-Graphic-Design-200h.jpg"
 ---
 
-You can't master a field without knowing the history. Meggs' History of Graphic Design presents an all-inclusive, visually spectacular arrangement of graphic design knowledge for students and professionals. Learn the milestones, developments, and pioneers of the trade so that you can shape the future.
+There’s simply no better introduction to the past design ideologies and designers that shaped our industry. 
+
+Condensing this rich history without it becoming dry is difficult. Megg succeeds by creating an engaging narrative rather than simply listing dates and names. At 624 pages (prehistory–early-21st century) it’s by no means a short read, but the prose is easily digestible.
+
+I especially enjoyed viewing the change of style over time through the many color photographs. I perceive frequently referring back to this book for inspiration, especially when becoming sick of current design trends.
