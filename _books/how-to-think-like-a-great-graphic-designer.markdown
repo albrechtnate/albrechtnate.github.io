@@ -12,4 +12,8 @@ Cover Image:
   JPG 200h Image: "/uploads/How-to-Think-Like-a-Great-Graphic-Designer-200h.jpg"
 ---
 
-*How to Think Like a Great Graphic Designer* is a misnomer, the book is really a compilation of interviews with several of the most famous designers of the latter twentieth century.
+*How to Think Like a Great Graphic Designer* is a misnomer. The book is really a compilation of interviews with noteworthy designers of the latter twentieth century: Michael Beirut, Paula Scher, Neville Brody, and Massimo Vignelli, among others.
+
+The diversity of the personalities, processes, and thoughts among those interviewed struck me the most. It seemed as if the only thing uniting the group was their drive to create and willingness to put in the hours of work.
+
+This interesting and quick read taught me to not worry too much about process. Everyone does it differently. The important thing is to create.
