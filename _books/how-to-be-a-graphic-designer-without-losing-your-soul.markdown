@@ -20,4 +20,4 @@ Cover Image:
 
 The book is equal parts design philosophy as it is practical, actionable tips. It reads like a seasoned design mentor advising you on the different pathways and the potential potholes of each.
 
-The book kicks off by remarking on design as problem-solving versus creative expression. Shaughnessy defends the later, but it’s clear that to “not lose your soul” you must have both. From there it discusses essential skills you need to be a designer, how to find a job, freelance vs studio, briefs, and the like. One of my favorites to date—*highly* recommended.
+The book kicks off by remarking on design as problem-solving versus creative expression. Shaughnessy defends the latter, but it’s clear that to “not lose your soul” you must have both. From there it discusses essential skills you need to be a designer, how to find a job, freelance vs studio, briefs, and the like. One of my favorites to date—*highly* recommended.
