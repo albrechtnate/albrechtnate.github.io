@@ -1,6 +1,8 @@
 ---
 title: How to Think Like a Great Graphic Designer
 date: 2019-06-14 20:35:00 -04:00
+categories:
+- Design Practice
 Author(s):
 - Debbie Millman
 Amazon Item ID: 1581154968
