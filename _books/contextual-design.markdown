@@ -19,7 +19,7 @@ Cover Image:
 
 This is the seminal book on contextual design (CD), a user-centered, team-driven innovative design process built on immersive field research.
 
-Usability testing improves existing prototypes, but doesn’t reveal what will really enhance and transform people's’ lives. CD and its research component, contextual inquiry, immerses the designer into the life of real users to help them understand real problems and drive ideation.
+Usability testing improves existing prototypes, but doesn’t reveal what will really enhance and transform people’s lives. CD and its research component, contextual inquiry, immerses the designer into the life of real users to help them understand real problems and drive ideation.
 
 The book discusses how to interview users, synthesize & interpret findings, create models & affinity diagrams, and share findings in team meetings.
 
