@@ -1,6 +1,8 @@
 ---
 title: Universal Methods of Design
 date: 2019-06-21 18:49:00 -04:00
+categories:
+- User Research
 Subtitle: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design
   Effective Solutions
 Author(s):
