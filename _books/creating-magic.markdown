@@ -15,8 +15,10 @@ Cover Image:
   JPG 200h Image: "/uploads/Creating-Magic-200h.jpg"
 ---
 
-Shortly after accepting a job as marketing director for the student government at Cedarville University, my director passed out two books to read before starting. One of which was *Creating Magic.*
+Shortly after accepting a job as marketing director for the student government at Cedarville University, my director passed out two books to read before starting; one of which was *Creating Magic.*
 
-Frankly, I was skeptical about whether this book was worth my time—what was it going to say other than practice servant leadership, take responsibility, take care of your people, and make expectations clear. …well, it turns out a lot.
+Frankly, I was skeptical about whether this book was worth my time—what was it going to say other than practice servant leadership, treat your people well, and make expectations clear. …well, it turns out a lot.
 
-The best part of this book are the stories. Rather than just stating the conclusions, Cockerell allows us to relive the circumstances and events and learn from how he handled them—both the good and bad. Key points are summarized at the end of each chapter as “Action Steps.”
+The best part are the stories. We relive the circumstances and events of Cockerell’s career and learn from how he handled them—good or bad. Key points from each are then summarized at the end of each chapter.
+
+The world would be quite a bit better if we all practiced what’s in this book.
