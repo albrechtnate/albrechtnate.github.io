@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{{- content -}}
+<ul style="list-style: none; width: 78ch">
+{%- assign books = site.books | sort: 'title' -%}
+{% for book in books %}
+	<li style="margin-bottom: 2.5rem;">
+		<article>
+{%- assign images = book['Cover Image'] -%}
+{%- assign WebP2x = images['WebP 400h Image'] -%}
+{%- assign JPG2x = images['JPG 400h Image'] -%}
+{%- assign WebP1x = images['WebP 200h Image'] -%}
+{%- assign JPG1x = images['JPG 200h Image'] %}
+			<picture>
+				<source type="image/webp" srcset="{{ WebP1x }} 1x, {{ WebP2x }} 2x" /> 
+				<source type="image/jpg" srcset="{{ JPG1x }} 1x, {{ JPG2x }} 2x" />
+				<img src="{{ JPG1x }}" alt="Book cover of {{ book.title }}" />
+			</picture>
+			<h2 style="margin-bottom: 0;">{{ book.title }}</h2>
+			{%- if book.Subtitle.size > 0 %}
+			<p class="subtitle" style="font-style: italic; font-size: 1.15rem; margin-top: 0;">{{ book.Subtitle }}</p>
+			{%- endif %}
+			<section>
+				{{ book.content | markdownify | strip_newlines }}
+			</section>
+		</article>
+	</li>
+{%- endfor %}
+</ul>
