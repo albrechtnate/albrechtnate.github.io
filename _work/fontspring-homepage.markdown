@@ -1,6 +1,8 @@
 ---
 title: Fontspring Homepage
 date: 2019-06-12 12:00:00 -04:00
+Client: Fontspring
+Completed: July 2018
 layout: default
 ---
 
