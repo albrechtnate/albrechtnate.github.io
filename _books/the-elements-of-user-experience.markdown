@@ -17,7 +17,7 @@ Cover Image:
   JPG 200h Image: "/uploads/The-Elements-of-User-Experience-200h.jpg"
 ---
 
-I’m a big fan of most books I read, but I truly can’t praise this one enough. In my opinion, this book is *the best intro to UXD *(for interaction designers).
+I’m a big fan of most books I read, but I truly can’t praise this one enough. In my opinion, this book is *the best intro to UXD* (for interaction designers).
 
 The book centers around a “Five Planes of UX” diagram that I’ve found *so helpful* in thinking about the components of interactive design. Stacked on top of the base plane, Strategy, are Scope, Structure, Skeleton, and Surface. The diagram even accounts for the difference between “product as functionality” and “product as information.”
 
