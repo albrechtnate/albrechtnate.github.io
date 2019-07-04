@@ -17,7 +17,7 @@ Cover Image:
   JPG 200h Image: "/uploads/Graphic-Design-Referenced-200h.jpg"
 ---
 
-I used *Graphic Design, Referenced *as my primary textbook in my Graphic Design I course. It’s a helpful book for understanding the design industry as a whole. It’s primary strength is that it exposes you to small tastes of numerous subjects that can be the basis for extended study.
+I used *Graphic Design, Referenced* as my primary textbook in my Graphic Design I course. It’s a helpful book for understanding the design industry as a whole. It’s primary strength is that it exposes you to small tastes of numerous subjects that can be the basis for extended study.
 
 Of course it talks about the elements of design and basic print production terms, but this is actually quite limited. Most of the book is dedicated to the history of the industry and significant industry artifacts. There’s a timeline of significant works and movements; and spreads on significant magazines, books, websites, museums, schools, and organizations relating to design.
 
