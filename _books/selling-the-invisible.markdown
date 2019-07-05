@@ -16,7 +16,7 @@ Cover Image:
   JPG 200h Image: "/uploads/Selling-the-Invisible-200h.jpg"
 ---
 
-Services are hard to sell: they’re intangible, largely invisible, and their quality and value is difficult to gauge. Suffice to say, they’re a big risk for consumers and thus difficult to sell.
+Services are hard to sell: they’re intangible, largely invisible, and their quality and value are difficult to gauge. Suffice to say, they’re a big risk for consumers and thus difficult to sell.
 
 A major theme is “marketing a bad service is the best way to kill a company.” Marketing isn’t just about promotion, it starts with re-evaluating the business strategy and creating value for your customers.
 
