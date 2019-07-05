@@ -15,7 +15,7 @@ Cover Image:
   JPG 200h Image: "/uploads/Grid-Systems-200h.jpg"
 ---
 
-I really wanted to love this book. While leafing through it I saw these cool semi-transparent overlays marking up famous grid-based design. There are tons of images of the same content laid out differently. This book seemed to have so much potential.
+I really wanted to love this book. While leafing through it I saw these cool semi-transparent overlays marking up famous grid-based designs. There are tons of images of the same content laid out differently. This book seemed to have so much potential.
 
 Unfortunately, I found it to be boring and not that helpful. There’s some useful information in here, but it’s almost not worth reading the entire book for it. The book doesn’t do that great of a job in explaining grid theory. And all those different layout images I saw—well that’s all there is to it. No explanation of why one might be better than another. The grid is flexible; I get it. I don’t need \~30 pages of gray boxes to prove that to me!
 
