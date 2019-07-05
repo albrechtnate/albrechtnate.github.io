@@ -17,3 +17,8 @@ Cover Image:
   JPG 200h Image: "/uploads/The-Principles-of-Beautiful-Web-Design-200h.jpg"
 ---
 
+*The Principles of Beautiful Web Design* is a solid guide to the considerations made when designing a web page: layout, color, typography, and imagery. The content in this book frankly isn’t anything you can’t easily find in hundreds of blog posts, but it is convenient to have all the information compiled together in one handy package.
+
+If you’re already a designer and familiar with the basic principles you won’t get tons out of this book. If you’re not a designer by trade (perhaps you’re a web developer who just can’t seem to make your web pages look good) or just starting out, then this may be a helpful resource for you.
+
+The example images are dated, but that was actually my favorite part. It’s fun to look back and “steal” designs styles that have since fallen out favor.
