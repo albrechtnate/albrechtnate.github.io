@@ -18,6 +18,6 @@ Cover Image:
 
 The *Anatomy of Type* is an essential read for learning typography. Unlike most other typography books, it doesn’t talk about typesetting (leading, tracking, correct punctuation…) and only briefly talks about type classification. Instead, this book scales up classic typefaces to the size of a spread and dissects the unique characteristics of each glyph.
 
-You’ll get the most out of this book if you read it after learning about and developing an appreciation for excellent typography. Then, as you do go through this book, don’t rush. Spend time on each spread understanding how the characteristics at the macro scale affect how the typeface looks at the micro scale (in body text).
+You’ll get the most out of this book if you read it after learning about and developing an appreciation for excellent typography. Then, as you do go through this book, don’t rush. Spend time on each spread understanding how the characteristics at the macro-scale affect how the typeface looks at the micro scale (in body text).
 
 If you like type, you’ll like this book. (Hand Letterers will especially benefit.)
