@@ -20,4 +20,4 @@ Services are hard to sell: they’re intangible, largely invisible, and their qu
 
 A major theme is “marketing a bad service is the best way to kill a company.” Marketing isn’t just about promotion, it starts with re-evaluating the business strategy and creating value for your customers.
 
-Other impactful ideas include “big mistakes are big opportunities”, “the more you say, the less people hear”, and “be good enough and eliminate risks”. The book teaches you how to create a positioning statement, price and name services, and build a brand. This is a book full of practical wisdom—there’s something in it for everyone.
+Other impactful ideas include “big mistakes are big opportunities,” “the more you say, the less people hear,” and “be good enough and eliminate risks.” The book teaches you how to create a positioning statement, price and name services, and build a brand. This is a book full of practical wisdom—there’s something in it for everyone.
