@@ -23,4 +23,4 @@ Usability testing improves existing prototypes, but doesn’t reveal what will r
 
 The book discusses how to interview users, synthesize & interpret findings, create models & affinity diagrams, and share findings in team meetings.
 
-Be warned: I hesitate to recommend this book because it’s long, wordy, and difficult to understand. Not easy reading, but it does has valuable content.
+Be warned: I hesitate to recommend this book because it’s long, wordy, and difficult to understand. Not easy reading, but it does have valuable content.
