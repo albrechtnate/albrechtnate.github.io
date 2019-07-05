@@ -20,4 +20,4 @@ I got into web design because I like solving problems. I like beautifying the wo
 
 Whether I like to or not, I end up writing. A client wants a website, but there’s no content …or their content is better suited for a 7th grade English essay. If my websites are going to achieve the business results clients want, they need good copy. I had to up my writing.
 
-*Letting Go of the Words* gave me more than I expected. It’s a guide for crafting clear websites. Of course it contains the traditional solid tips, but Redish’s book also *reframed my approach to writing web content.* I’m far from professional writer status, but I think I’m a little less terrible now.
+*Letting Go of the Words* gave me more than I expected. It’s a guide for crafting clear websites. Of course it contains the traditional solid tips, but Redish’s book also *reframed my approach to writing web content.* I’m far from professional-writer-status, but I think I’m a little less terrible now.
