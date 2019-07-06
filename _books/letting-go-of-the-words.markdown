@@ -2,7 +2,7 @@
 title: Letting Go of the Words
 date: 2019-07-04 10:57:00 -04:00
 categories:
-- Content Strategy
+- Copywriting
 Subtitle: Writing Web Content that Works
 Author(s):
 - Janice (Ginny) Redish
