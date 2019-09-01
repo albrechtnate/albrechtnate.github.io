@@ -8,6 +8,11 @@ Author(s):
 - Timothy Samara
 Amazon Item ID: 1592531253
 Goodreads Item ID: 218062
+Cover Image:
+  WebP 400h Image: "/uploads/Making-and-Breaking-the-Grid-400h.webp"
+  JPG 400h Image: "/uploads/Making-and-Breaking-the-Grid-400h.jpg"
+  WebP 200h Image: "/uploads/Making-and-Breaking-the-Grid-200h.webp"
+  JPG 200h Image: "/uploads/Making-and-Breaking-the-Grid-200h.jpg"
 ---
 
 *Making and Breaking the Grid* is one of the better books I’ve read on grids. I appreciate that it teaches the concepts and the historical context surrounding its use (or lack thereof) without imposing an unnecessary moral judgement (unlike most Modernist literature on the topic).
