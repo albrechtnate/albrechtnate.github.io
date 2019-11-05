@@ -7,11 +7,15 @@ date: 2019-06-12 23:01:00 -04:00
 
 Podcasts are the *best.*
 
-- They’re absolutely free.
-- You can easily fit them into your daily schedule. I listen while doing chores or driving (don’t try that with reading!)
-- They’re entertaining and informative.
-- They share new perspectives on familiar topics or sometimes even introduce you to something entirely new.
-- …and they keep you feeling inspired and refreshed, realigning your vision on the things that truly matter.
+* They’re absolutely free.
+
+* You can easily fit them into your daily schedule. I listen while doing chores or driving (don’t try that with reading!)
+
+* They’re entertaining and informative.
+
+* They share new perspectives on familiar topics or sometimes even introduce you to something entirely new.
+
+* …and they keep you feeling inspired and refreshed, realigning your vision on the things that truly matter.
 
 Overall, they’re just great for keeping your mind engaged when you’re tired of music. I listen to an episode almost every morning. I’m not a morning person, so it’s a nice way to ease into the day.
 
@@ -22,39 +26,43 @@ In no particular order, these are my favorite podcasts. The content and format v
 *Note: I’ve limited the selection to podcasts that are currently active. This list is dynamic, and will be updated as needed.*
 
 <picture>
-	<source type="image/webp" srcset="/uploads/Design-Life-150w.webp 1x, /uploads/Design-Life-300w.webp 2x">
-	<source type="image/jpg" srcset="/uploads/Design-Life-150w.jpg 1x, /uploads/Design-Life-300w.jpg 2x">
-	<img alt="The Design Life Podcast Cover Art" src="/uploads/Design-Life-150w.jpg">
+<source type="image/webp" srcset="/uploads/Design-Life-150w.webp 1x, /uploads/Design-Life-300w.webp 2x">
+<source type="image/jpg" srcset="/uploads/Design-Life-150w.jpg 1x, /uploads/Design-Life-300w.jpg 2x">
+<img alt="The Design Life Podcast Cover Art" src="/uploads/Design-Life-150w.jpg">
 </picture>
 
 ### 1. [Design Life](https://www.designlife.fm)
+
 Design Life features casual conversations between [Charli Prangley](https://charlimarie.com) and [Femke van Schoonhoven](https://www.femke.co.nz) about life as a designer. I appreciate their transparency about the challenges creatives face. A favorite episode is [Episode 38: Jack of all trades - Specialist or generalist?](https://www.designlife.fm/episode/38)
 
 <picture>
-	<source type="image/webp" srcset="/uploads/Overtime-150w.webp 1x, /uploads/Overtime-300w.webp 2x">
-	<source type="image/jpg" srcset="/uploads/Overtime-150w.jpg 1x, /uploads/Overtime-300w.jpg 2x">
-	<img alt="The Overtime Podcast Cover Art" src="/uploads/Overtime-150w.jpg">
+<source type="image/webp" srcset="/uploads/Overtime-150w.webp 1x, /uploads/Overtime-300w.webp 2x">
+<source type="image/jpg" srcset="/uploads/Overtime-150w.jpg 1x, /uploads/Overtime-300w.jpg 2x">
+<img alt="The Overtime Podcast Cover Art" src="/uploads/Overtime-150w.jpg">
 </picture>
 
 ### 2. [Overtime](https://dribbble.com/overtime)
-Overtime is the official podcast of [Dribbble](https://dribbble.com). The podcast interviews incredibly talented designers and illustrators from the Dribbble community. It’s always inspiring to hear about their process and thoughts on the  industry. I particularly enjoyed the discussion in [Episode 26 with Khoi Vinh](https://dribbble.com/overtime/2017/11/28/episode-26-khoi-vinh).
+
+Overtime is the official podcast of [Dribbble](https://dribbble.com). The podcast interviews incredibly talented designers and illustrators from the Dribbble community. It’s always inspiring to hear about their process and thoughts on the  industry. I particularly enjoyed the discussion in [Episode 56 with Meagan Fisher](https://dribbble.com/overtime/2019/04/10/owltastic-s-meagan-fisher-on-adapting-to-the-modern-landscape-of-web-design).
 
 <picture>
-	<source type="image/webp" srcset="/uploads/The-Seanwes-Podcast-150w.webp 1x, /uploads/The-Seanwes-Podcast-300w.webp 2x">
-	<source type="image/jpg" srcset="/uploads/The-Seanwes-Podcast-150w.jpg 1x, /uploads/The-Seanwes-Podcast-300w.jpg 2x">
-	<img alt="The Seanwes Podcast Cover Art" src="/uploads/The-Seanwes-Podcast-150w.jpg">
+<source type="image/webp" srcset="/uploads/The-Seanwes-Podcast-150w.webp 1x, /uploads/The-Seanwes-Podcast-300w.webp 2x">
+<source type="image/jpg" srcset="/uploads/The-Seanwes-Podcast-150w.jpg 1x, /uploads/The-Seanwes-Podcast-300w.jpg 2x">
+<img alt="The Seanwes Podcast Cover Art" src="/uploads/The-Seanwes-Podcast-150w.jpg">
 </picture>
 
 ### 3. [The Seanwes Podcast](https://seanwes.com/podcast/)
+
 I first discovered Sean through his [stunning lettering art](https://dribbble.com/shots/880418-Just-a-friendly-nudge), but I’ve stuck around for his clear advice on creativity, business, and personal development. The Seanwes podcast always leaves you inspired and fired-up. Start with [Episode 233: Get More Time in a Day, Increase Your Focus, and Accomplish All of Your Goals](https://seanwes.com/podcast/233-get-more-time-in-a-day-increase-your-focus-and-accomplish-all-of-your-goals/).
 
 <picture>
-	<source type="image/webp" srcset="/uploads/99-Percent-Invisible-150w.webp 1x, /uploads/99-Percent-Invisible-300w.webp 2x">
-	<source type="image/jpg" srcset="/uploads/99-Percent-Invisible-150w.jpg 1x, /uploads/99-Percent-Invisible-300w.jpg 2x">
-	<img alt="The 99% Invisible Podcast Cover Art" src="/uploads/99-Percent-Invisible-150w.jpg">
+<source type="image/webp" srcset="/uploads/99-Percent-Invisible-150w.webp 1x, /uploads/99-Percent-Invisible-300w.webp 2x">
+<source type="image/jpg" srcset="/uploads/99-Percent-Invisible-150w.jpg 1x, /uploads/99-Percent-Invisible-300w.jpg 2x">
+<img alt="The 99% Invisible Podcast Cover Art" src="/uploads/99-Percent-Invisible-150w.jpg">
 </picture>
 
 ### 4. [99% Invisible](https://99percentinvisible.org/)
+
 Look around. Someone designed everything you see. Whether it’s a city or a straw, they all have a lurking history. 99% Invisible explores these often unseen and ignored aspects of design all around us. Listen to [Episode 110: Structural Integrity](https://99percentinvisible.org/episode/structural-integrity/) about an undergraduate student narrowly saving the Citicorp Center from collapse.
 
 ### 5. The Passion Podcast
@@ -67,7 +75,7 @@ Look around. Someone designed everything you see. Whether it’s a city or a str
 
 ### 9. Breakaway Ministries
 
-### 10. About Buildings + Cities
+### 10. About Buildings \+ Cities
 
 ### 11. Darknet Diaries
 
