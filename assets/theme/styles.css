@@ -1731,7 +1731,7 @@ ul.row {
 /* MIDDLE CONTENT */
 /***********************************************************************************************/
 .middle-container {
-	background: transparent url('../images/pattern.jpg') 0 0 repeat;
+	background: transparent url('images/pattern.jpg') 0 0 repeat;
 	-webkit-box-shadow: inset 0 0px 5px 0 rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: inset 0 0px 5px 0 rgba(0, 0, 0, 0.2);
 	box-shadow: inset 0 0px 5px 0 rgba(0, 0, 0, 0.2);
