@@ -1421,8 +1421,7 @@ em {
 /***********************************************************************************************/
 @font-face {
 	font-family: 'icomoon-ultimate';
-	src: url('fonts/icomoon-ultimate.eot');
-	src: url('fonts/icomoon-ultimate.eot?#iefix') format('embedded-opentype'), url('fonts/icomoon-ultimate.woff') format('woff'), url('fonts/icomoon-ultimate.ttf') format('truetype'), url('fonts/icomoon-ultimate.svg#icomoon-ultimate') format('svg');
+	src: url('fonts/icomoon-ultimate.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
