@@ -1701,6 +1701,10 @@ ul.row {
 	color: #2b2b2b;
 }
 
+.logo img {
+	height: 50px;
+}
+
 .main-nav ul {
 	margin-top: 35px;
 }
