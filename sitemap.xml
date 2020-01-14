@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-	  <loc>https://nathanalbrecht.design/</loc>
+	  <loc>/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>1.00</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/portfolio/</loc>
+	  <loc>/portfolio/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/books-ive-read-and-loved-that-shape-my-thoughts-to-design-and-life/</loc>
+	  <loc>/books-ive-read-and-loved-that-shape-my-thoughts-to-design-and-life/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/about/</loc>
+	  <loc>/about/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/contact/</loc>
+	  <loc>/contact/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.80</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/fontspring-homepage/</loc>
+	  <loc>/fontspring-homepage/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/woodside-farm-creamery-website-redesign/</loc>
+	  <loc>/woodside-farm-creamery-website-redesign/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/a-beginners-guide-to-architecture-type-book/</loc>
+	  <loc>/a-beginners-guide-to-architecture-type-book/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/boy-scout-troop-191-website-2/</loc>
+	  <loc>/boy-scout-troop-191-website-2/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/raw-type-alphabet-poster/</loc>
+	  <loc>/raw-type-alphabet-poster/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/25-hours-mobile-application/</loc>
+	  <loc>/25-hours-mobile-application/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/cedarville-prospective-student-self-mailer/</loc>
+	  <loc>/cedarville-prospective-student-self-mailer/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/springboard/</loc>
+	  <loc>/springboard/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/to-kill-a-mocking-bird-book-cover/</loc>
+	  <loc>/to-kill-a-mocking-bird-book-cover/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.64</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/what-inspired-you-to-become-a-designer/</loc>
+	  <loc>/what-inspired-you-to-become-a-designer/</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.7</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/wp-content/uploads/Resume.pdf</loc>
+	  <loc>/assets/uploads/Resume.pdf</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.7</priority>
 	</url>
 	<url>
-	  <loc>https://nathanalbrecht.design/wp-content/uploads/Process-Book_updated2.pdf</loc>
+	  <loc>/assets/uploads/Process-Book_updated2.pdf</loc>
 	  <lastmod>2019-11-30T14:44:12+00:00</lastmod>
 	  <priority>0.51</priority>
 	</url>
