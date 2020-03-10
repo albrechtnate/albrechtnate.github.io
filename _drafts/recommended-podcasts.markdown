@@ -105,13 +105,19 @@ At university I had to attend chapel every day. Alumni mentioned how much they m
 
 This American Life has been a staple in my listening for a long time. It’s such a well-known show I hardly have to describe it. Each episode contains stories about a theme, ranging from amusing to serious. I appreciate its typical first-person narrative approach. A good episode to start with—one long story on the lighter side—is [Episode 129: Cars](https://www.thisamericanlife.org/513/129-cars).
 
+<picture>
+<source type="image/webp" srcset="/uploads/Scratching-the-Surface-150w.webp 1x, /uploads/Scratching-the-Surface-300w.webp 2x">
+<source type="image/jpg" srcset="/uploads/Scratching-the-Surface-150w.jpg 1x, /uploads/Scratching-the-Surface-300w.jpg 2x">
+<img alt="Scratching the Surface Podcast Cover Art" src="/uploads/Scratching-the-Surface-150w.jpg">
+</picture>
+
 ### 9. [Scratching the Surface](https://scratchingthesurface.fm)
 
 Scratching the Surface is another design-focused podcast, but different. Most design podcasts focus on practice—careers, trends, and industry—which is great, but it’s only half of design. This podcast provides the academic half: design criticism, writing, education, and theory. You’ve gotta be a bit nerdy about design to enjoy it, but I guess I am because I find the interviews, like [Episode 132 with Jenny Odell](https://scratchingthesurface.fm/post/187635812060/132-jenny-odell), really fascinating.
 
 <picture>
 <source type="image/webp" srcset="/uploads/The-Simplebits-Show-150w.webp 1x, /uploads/The-Simplebits-Show-300w.webp 2x">
-<source type="image/jpg" srcset="/uploads/The-Simplebits-Show-150w.jpg 1x, /uploads/The-Simplebits-Show300w.jpg 2x">
+<source type="image/jpg" srcset="/uploads/The-Simplebits-Show-150w.jpg 1x, /uploads/The-Simplebits-Show-300w.jpg 2x">
 <img alt="The Simplebits Show Cover Art" src="/uploads/The-Simplebits-Show-150w.jpg">
 </picture>
 
