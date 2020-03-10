@@ -43,7 +43,7 @@ Design Life features casual conversations between [Charli Prangley](https://char
 
 ### 2. [Overtime](https://dribbble.com/overtime)
 
-Overtime is the official podcast of [Dribbble](https://dribbble.com). The podcast reports and comments on trending design news and features thoughts from well-know designers. I personally preferred previous host Dan Cedarholm’s style, but fortunately he’s started [a new podcast](https://show.simplebits.com), so it’s really a win-win. I particularly enjoyed Dan’s discussion in [Episode 56 with Meagan Fisher](https://dribbble.com/overtime/2019/04/10/owltastic-s-meagan-fisher-on-adapting-to-the-modern-landscape-of-web-design).
+Overtime is the official podcast of [Dribbble](https://dribbble.com). The podcast reports and comments on trending design news and features thoughts from well-known designers. I personally preferred previous host Dan Cederholm’s style, but fortunately he’s started [a new podcast](https://show.simplebits.com), so it’s really a win-win. I particularly enjoyed Dan’s discussion in [Episode 56 with Meagan Fisher](https://dribbble.com/overtime/2019/04/10/owltastic-s-meagan-fisher-on-adapting-to-the-modern-landscape-of-web-design).
 
 <picture>
 <source type="image/webp" srcset="/uploads/The-Seanwes-Podcast-150w.webp 1x, /uploads/The-Seanwes-Podcast-300w.webp 2x">
@@ -73,7 +73,7 @@ Look around. Everything you see…yeah, someone designed that. Whether it’s a 
 
 ### 5. [Breakaway Ministries](https://www.breakawayministries.org)
 
-Breakaway is a Christian ministry for students at Texas A&M. I discovered their podcast during college when someone recommended their series on singleness and dating. Suffice to say, Breakaway reignited my passion for the Gospel and desire for a close relationship with Christ …and the messages continue to help me to grow in spiritual maturity. I *highly* encourage you to listen to Ben Stuart’s series on Ephesians, *All In*, starting with [In Christ](https://subsplash.com/breakaway/messages/mi/+820d5b5).
+Breakaway is a Christian ministry for students at Texas A&M. I discovered their podcast during college when someone recommended their series on singleness and dating. Suffice to say, Breakaway reignited my passion for the Gospel and desire for a close relationship with Christ …and the messages continue to help me to grow in spiritual maturity. I *highly* encourage you to listen to Ben Stuart’s series on Ephesians, *All In*, starting with [In Christ](https://subsplash.com/breakaway/messages/mi/\+820d5b5).
 
 <picture>
 <source type="image/webp" srcset="/uploads/Darknet-Diaries-150w.webp 1x, /uploads/Darknet-Diaries-300w.webp 2x">
@@ -83,7 +83,7 @@ Breakaway is a Christian ministry for students at Texas A&M. I discovered their 
 
 ### 6. [Darknet Diaries](https://darknetdiaries.com)
 
-Wanna hear what happens when Xbox fans find confidential Xbox development hardware? Or how the USA military launched cyberwarfare on ISIS? Or about a physical penetration test gone wrong? Jack Rhysider of Darknet Diaries captivates and entertains me throughout the day with unbelievable stories like these. Try [Episode 45: XBox Underground](https://darknetdiaries.com/episode/45/)
+Wanna hear what happens when Xbox fans find confidential Xbox development hardware? Or how the USA military launched cyber warfare on ISIS? Or about a physical penetration test gone wrong? Jack Rhysider of Darknet Diaries captivates and entertains me throughout the day with unbelievable stories like these. Try [Episode 45: XBox Underground](https://darknetdiaries.com/episode/45/)
 
 <picture>
 <source type="image/webp" srcset="/uploads/Cedarville-University-Chapel-Messages-150w.webp 1x, /uploads/Cedarville-University-Chapel-Messages-300w.webp 2x">
@@ -123,20 +123,26 @@ Scratching the Surface is another design-focused podcast, but different. Most de
 
 ### 10. [The SimpleBits Show](https://show.simplebits.com)
 
-This is the newest pocast I’ve started listening to, but it doen’t feel new. It’s hosted by Dan Cedarholm, the previous host of [Overtime](https://dribbble.com/overtime), and is similar in style to how he hosted Overtime; it feels like the old Overtime rebranded! Dan interviews incredibly talented designers and illustrators from the design community. It’s always inspiring to hear about their process and thoughts on the industry.
-
-
+This is the newest podcast I’ve started listening to, but it doesn’t feel new. It’s hosted by Dan Cederholm, the previous host of [Overtime](https://dribbble.com/overtime), and is similar in style to how he hosted Overtime; it feels like the old Overtime rebranded! Dan interviews incredibly talented designers and illustrators from the design community. It’s always inspiring to hear about their process and thoughts on the industry.
 
 ### Honorable Mentions
 
 A few other podcasts I’ve listened to that have stopped producing episodes but still have good archives, or just didn’t quite make the top ten.
 
-- [The Big Web Show](https://5by5.tv/bigwebshow)
-- [Serial Season One](https://serialpodcast.org/season-one)
-- [The UX Intern](https://podcasts.apple.com/us/podcast/the-ux-intern/id684613036)
-- [Masters of Scale](https://mastersofscale.com)
-- [The Passion Podcast](https://podcasts.apple.com/us/podcast/the-passion-podcast/id78650928)
-- [The Bible Project](https://bibleproject.com/podcasts/the-bible-project-podcast)
-- [About Buildings + Cities](https://aboutbuildingsandcities.org)
-- [Smashing Podcast](https://podcast.smashingmagazine.com)
-- [Passion City Church DC Podcast](https://podcasts.apple.com/us/podcast/passion-city-church-dc-podcast/id1406150278)
+* [The Big Web Show](https://5by5.tv/bigwebshow)
+
+* [Serial Season One](https://serialpodcast.org/season-one)
+
+* [The UX Intern](https://podcasts.apple.com/us/podcast/the-ux-intern/id684613036)
+
+* [Masters of Scale](https://mastersofscale.com)
+
+* [The Passion Podcast](https://podcasts.apple.com/us/podcast/the-passion-podcast/id78650928)
+
+* [The Bible Project](https://bibleproject.com/podcasts/the-bible-project-podcast)
+
+* [About Buildings \+ Cities](https://aboutbuildingsandcities.org)
+
+* [Smashing Podcast](https://podcast.smashingmagazine.com)
+
+* [Passion City Church DC Podcast](https://podcasts.apple.com/us/podcast/passion-city-church-dc-podcast/id1406150278)
