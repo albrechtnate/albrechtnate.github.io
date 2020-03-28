@@ -103,7 +103,7 @@ At university I had to attend chapel every day. Alumni mentioned how much they m
 
 ### 8. [This American Life](https://www.thisamericanlife.org)
 
-This American Life has been a staple in my listening for a long time. It’s such a well-known show I hardly have to describe it. Each episode contains stories about a theme, ranging from amusing to serious. I appreciate its typical first-person narrative approach. A good episode to start with—one long story on the lighter side—is [Episode 129: Cars](https://www.thisamericanlife.org/513/129-cars).
+This American Life has been a staple in my listening for a long time. It’s such a well-known show I hardly have to describe it. Each episode contains stories about a theme, ranging from amusing to serious. I appreciate its typical first-person narrative approach. A good episode to start with is [Episode 697: Alone Together](https://www.thisamericanlife.org/697/alone-together).
 
 <picture>
 <source type="image/webp" srcset="/uploads/Scratching-the-Surface-150w.webp 1x, /uploads/Scratching-the-Surface-300w.webp 2x">
