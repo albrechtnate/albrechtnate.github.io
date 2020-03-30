@@ -8,6 +8,11 @@ Author(s):
 Edition Number: 1998
 Amazon Item ID: '0671027034'
 Goodreads Item ID: 4865
+Cover Image:
+  WebP 400h Image: "/uploads/How-to-Win-Friends-and-Influence-People-400h.webp"
+  JPG 400h Image: "/uploads/How-to-Win-Friends-and-Influence-People-400h.jpg"
+  WebP 200h Image: "/uploads/How-to-Win-Friends-and-Influence-People-200h.webp"
+  JPG 200h Image: "/uploads/How-to-Win-Friends-and-Influence-People-200h.jpg"
 ---
 
 *How to Win Friends and Influence People* has been around since 1936 and sold over 30 million copies! Based on this legacy—along with the fact that I’m a total introvert and am painfully awkward at starting and maintaining conversation
