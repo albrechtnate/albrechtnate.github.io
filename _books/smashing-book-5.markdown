@@ -27,7 +27,7 @@ Cover Image:
   JPG 200h Image: "/uploads/Smashing-Book-5-200h.jpg"
 ---
 
-*Smashing Book 5* is an interesting book. First off, it’s huge. Secondly, it’s *beautiful—*probably the best produced book I own. But most importantly, it has loads of practical chapters written by different industry experts.
+*Smashing Book 5* is an interesting book. First off, it’s huge. Secondly, it’s *beautiful*—probably the best produced book I own. But most importantly, it has loads of practical chapters written by different industry experts.
 
 While each of the chapters cover very different topics ranging from the nuances of SVG and web fonts to structured content and the nightmare that is responsive HTML email—they are all united by a common theme: How do we design complex websites in the age of RWD?
 
