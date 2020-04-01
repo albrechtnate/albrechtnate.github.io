@@ -16,6 +16,11 @@ Author(s):
 - Ada Rose Cannon
 - Vitaly Friedman
 Goodreads Item ID: 41732334
+Cover Image:
+  WebP 400h Image: "/uploads/Smashing-Book-6-400h.webp"
+  JPG 400h Image: "/uploads/Smashing-Book-6-400h.jpg"
+  WebP 200h Image: "/uploads/Smashing-Book-6-200h.webp"
+  JPG 200h Image: "/uploads/Smashing-Book-6-200h.jpg"
 ---
 
 The Smashing Books series continues with *New Frontiers in Web Design*. It’s structured like others in the series: distinct chapters, by distinct authors, around a central theme. The chapters are entirely original, but it feels like Smashing’s best articles hand-picked and expanded. (Which isn’t a bad thing!)
