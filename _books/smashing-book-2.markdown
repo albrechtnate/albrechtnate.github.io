@@ -1,5 +1,5 @@
 ---
-title: The Smashing Book 2
+title: Smashing Book 2
 date: 2019-07-05 17:28:00 -04:00
 categories:
 - Interactive Design
