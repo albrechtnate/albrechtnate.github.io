@@ -1,6 +1,8 @@
 ---
 title: Smashing Book 6
 date: 2020-03-31 21:05:00 -04:00
+categories:
+- Interactive Design
 Subtitle: New Frontiers in Web Design
 Author(s):
 - Laura Elizabeth
