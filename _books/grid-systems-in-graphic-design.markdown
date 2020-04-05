@@ -16,8 +16,8 @@ Cover Image:
   JPG 200h Image: "/uploads/Grid-Systems-in-Graphic-Design-200h.jpg"
 ---
 
- I’ve been a big fan of Josef Müller-Brockmann’s Swiss Style posters for a while and couldn’t pass up his 1981 book that is widely considered a classic by the graphic design community.
+I’ve been a big fan of Josef Müller-Brockmann’s Swiss Style posters for a while and couldn’t pass up his 1981 book that is widely considered a classic by the graphic design community.
 
 The book explains his process of developing a grid. He shows dozens of examples of different ways you can subdivide the grid and arrange content within it. He even shows how to apply his method to three dimensions.
 
-I didn’t find the book as interesting as others make it out to be. I don’t think it’s a great primer on grids and fear some would equate Josef’s didactic design style with grids themselves. Additionally, the book is dated and its insights are difficult to apply to responsive web design. It is, however, an insightful look into a single design legend’s philosophy & method of work.
+I didn’t find the book as interesting as others suggested it to be. I don’t think it’s a great primer on grids and fear some may equate Josef’s didactic style with grids themselves. Also, it’s dated and the insights are difficult to apply to responsive web design. It is, however, an insightful look into a single design legend’s philosophy & method of work.
