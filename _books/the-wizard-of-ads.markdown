@@ -8,6 +8,11 @@ Author(s):
 - Roy H. Williams
 Amazon Item ID: B0090SXPPA
 Goodreads Item ID: 18741909
+Cover Image:
+  WebP 400h Image: "/uploads/The-Wizard-Of-Ads-400h.webp"
+  JPG 400h Image: "/uploads/The-Wizard-Of-Ads-400h.jpg"
+  WebP 200h Image: "/uploads/The-Wizard-Of-Ads-200h.webp"
+  JPG 200h Image: "/uploads/The-Wizard-Of-Ads-200h.jpg"
 ---
 
 My CEO recommended *The Wizard of Ads* to me after I recommended *Selling the Invisible* to him. There’s three sections each with about three dozen “chapters” (a page or two) consisting of an anecdote and an insight to glean.
