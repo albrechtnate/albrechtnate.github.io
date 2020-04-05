@@ -1,6 +1,8 @@
 ---
 title: Designing with Light
 date: 2020-04-05 16:46:00 -04:00
+categories:
+- Lighting Design
 Subtitle: An Introduction to Stage Lighting
 Author(s):
 - J. Michael Gillette
