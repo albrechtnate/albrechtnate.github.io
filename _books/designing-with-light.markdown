@@ -18,10 +18,8 @@ Cover Image:
   JPG 200h Image: "/uploads/Designing-with-Light-200h.jpg"
 ---
 
-I used this text in my college stage lighting class and was so impressed with its breadth and depth. The introduction emphasizes that lighting design is an amalgam of technology and art, and the book covers both *very* well.
+Lighting design is as much technology as it is art. This text I used in my college lighting design class respects that and covers both *very* well. I was so impressed with its breadth and depth. As an industry-outsider and noob, this book was beyond helpful!
 
-It begins with a chapter on the controllable qualities of light (eg. color and distribution) used to evoke particular emotions or achieve particular goals. Other chapters focus on the design process and using a lighting key.
+It begins with the controllable qualities of light used to evoke particular emotions or achieve particular goals, followed by later chapters on the design process and using a lighting key.
 
-Several chapters focus on the different types of lighting instruments, lenses, lamps, cables, dimmers, and consoles. There’s even an entire chapter on electrical theory! It covers new and old methods, which is good since venues can be slow to upgrade. The latter chapters focus on drafting light plots and other documentation to better communicate your designs to others.
-
-As an industry-outsider and a noob, this book was incredibly helpful!
+Then it explains the different types of lighting instruments, lenses, lamps, cables, dimmers, and consoles; covering both new and old methods (which is good since venues can be slow to upgrade.) There’s even a whole chapter on electrical theory! The last chapters focus on drafting light plots and other documentation to better communicate your designs to others. A\+ book.
