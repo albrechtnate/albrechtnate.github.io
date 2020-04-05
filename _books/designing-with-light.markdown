@@ -11,6 +11,11 @@ Edition Number: 6th
 Amazon Item ID: B00DC6XLQ4
 Goodreads Item ID: 17061149
 Is Favorite: true
+Cover Image:
+  WebP 400h Image: "/uploads/Designing-with-Light-400h.webp"
+  JPG 400h Image: "/uploads/Designing-with-Light-400h.jpg"
+  WebP 200h Image: "/uploads/Designing-with-Light-200h.webp"
+  JPG 200h Image: "/uploads/Designing-with-Light-200h.jpg"
 ---
 
 I used this text in my college stage lighting class and was so impressed with its breadth and depth. The introduction emphasizes that lighting design is an amalgam of technology and art, and the book covers both *very* well.
