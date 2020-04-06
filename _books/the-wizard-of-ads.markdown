@@ -19,6 +19,4 @@ My CEO recommended *The Wizard of Ads* to me after I recommended *Selling the In
 
 The first section is on marketing your company and writing successful ad copy. It warns you of wasting time finding “the right people” and instead encourages you to spend that time saying “the right thing.”
 
-Section two contains anecdotes about how to run a business and how *not* to. And section three is mainly life advice: do what you love; seize opportunity; celebrate the ordinary; set milestones and have dreams but don't make your happiness dependent on them; marry your best friend.
-
-The book is inspiring, the stories compelling, and the principles serve as guiding lights—just don’t expect to find explicit practical tips here.
+Section two contains anecdotes about how to run a business and how *not* to. And section three is mainly life advice: do what you love; seize opportunity; celebrate the ordinary; set goals but don't depend on them for happiness; marry your best friend. The book is inspiring, the stories compelling, and the principles exemplary—just don’t expect explicit practical tips here.
