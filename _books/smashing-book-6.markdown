@@ -23,8 +23,8 @@ Cover Image:
   JPG 200h Image: "/uploads/Smashing-Book-6-200h.jpg"
 ---
 
-The Smashing Books series continues with *New Frontiers in Web Design*. It’s structured like others in the series: distinct chapters, by distinct authors, around a central theme. The chapters are entirely original, but it feels like Smashing’s best articles hand-picked and expanded. (Which isn’t a bad thing!)
+The Smashing series continues with *New Frontiers in Web Design*. It’s structured like others in the series: distinct chapters by distinct authors around a central theme. The chapters are entirely original, but it feels like Smashing’s best articles handpicked and expanded. (Not a bad thing!)
 
-Topics include how to advocate for a design system, how to effectively use CSS Custom Properties, how to load assets quickly, and how to design conversational UIs. At first the topics seemed too diverse, but in context of “New Frontiers” they really do represent the cutting-edge issues in the industry …even 2 years after publication when I read it. Naturally I was interested in certain topics over others, but I liked that the diverse content made me consider areas of the industry I was less familiar with or inclined towards.
+Topics include advocating a design system, effectively using CSS custom properties, loading assets quickly, and designing conversational UIs. At first it seemed too diverse, but these *are* the “new frontier”, cutting-edge issues …even 2 years after publication when I read it. Naturally I was more interested in certain topics, but I liked that the diversity made me consider areas I was less inclined towards.
 
 Disappointingly, the material didn’t seem very actionable on *my* real-life projects. I’m not doing VR or chatbots—even the performance chapter, while interesting, didn’t feel actionable. I guess that’s just the nature of “new frontiers”. [The last chapter](https://www.smashingmagazine.com/2018/06/bringing-personality-back-to-the-web), however, was very applicable. It inspired lots of thinking about ways I can distinguish my websites. Also, did I mention—the printed book is a beaut!
