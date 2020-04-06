@@ -22,4 +22,4 @@ Steal Like an Artist is just the first point of the book, however. With succinct
 
 Keep learning. Carry a notebook. Don’t wait til you know who you are, show up and create. Use your hands. Have side projects & hobbies. Surround yourself with things and people you love. Be nice. Keep a praise file. Be boring. Write. *Do good work and share it.* (among many others.)
 
-You’ll come away feeling inspired. This is a steal!
+You’ll come away feeling inspired—this is a steal!
