@@ -23,7 +23,7 @@ Cover Image:
   JPG 200h Image: "/uploads/Smashing-Book-6-200h.jpg"
 ---
 
-The Smashing series continues with *New Frontiers in Web Design*. It’s structured like others in the series: distinct chapters by distinct authors around a central theme. The chapters are entirely original, but it feels like Smashing’s best articles handpicked and expanded. (Not a bad thing!)
+The Smashing series continues with *New Frontiers in Web Design*. Structured like others in the series: distinct chapters by distinct authors around a central theme. It *feels like* Smashing’s best articles handpicked and expanded. (Not a bad thing!)
 
 Topics include advocating a design system, using CSS custom properties, loading assets quickly, and designing conversational UIs. At first it seemed too diverse, but these *are* the “new frontier” issues …even 2 years later when I read it. Naturally I was more interested in certain topics, but I liked that the diversity made me consider areas I was less inclined towards.
 
