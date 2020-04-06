@@ -19,4 +19,4 @@ Cover Image:
 
 A maxim frequented in the book is that “a human’s deepest desire is to feel *important*.” Carnegie’s entire premise can be summarized as, “do that which bolsters other’s sense of importance and abstain from anything that’d tarnish it. For example, “give sincere appreciation” and “don’t criticize or complain.”
 
-Honestly, the book wasn’t what I expected—it seemed to focus on business salesmanship, which is less relevant to me. It’s filled with stories, but seemed to have little “meat.” It felt disorganized and repetitive. Skip it, but ruminate on [the principles](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People#Fundamental_Techniques_in_Handling_People). They’re solid and cover the book, just in fewer words.
+Honestly, the book wasn’t what I expected—it seemed to focus on business salesmanship, which is less relevant to me. It’s filled with stories, but in my opinion little “meat.” It’s disorganized and repetitive. Skip it, but ruminate on [the principles](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People#Fundamental_Techniques_in_Handling_People). They’re solid and cover the book, just in fewer words.
