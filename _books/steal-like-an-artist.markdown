@@ -16,7 +16,7 @@ Cover Image:
   JPG 200h Image: "/uploads/Steal-Like-An-Artist-200h.jpg"
 ---
 
-The title’s surprising. Steal?! I thought artists were to create visionary, original works—not imitate and rip-off others. Janda compellingly argues that nothing is original, all creators steal from their influences. Good artists transform their thefts, bad artists simply imitate them.
+The title’s surprising. Steal?! I thought artists were to create visionary, original works—not imitate and rip-off others. Janda compellingly argues that nothing is original, all creators steal from their influences. Good artists transform their thefts, bad artists imitate them.
 
 Steal Like an Artist is just the first point of the book, however. With succinct copy that makes it seem as if the author is speaking directly to you, Janda gives other tips on how to be creative:
 
