@@ -146,3 +146,5 @@ A few other podcasts I’ve listened to that have stopped producing episodes but
 * [Smashing Podcast](https://podcast.smashingmagazine.com)
 
 * [Passion City Church DC Podcast](https://podcasts.apple.com/us/podcast/passion-city-church-dc-podcast/id1406150278)
+
+* [The Future of Cities](https://thefutureofcities.libsyn.com)
