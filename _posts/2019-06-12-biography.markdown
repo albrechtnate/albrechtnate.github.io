@@ -37,7 +37,7 @@ I enjoyed the technical aspect of creating websites, but I also wanted them to l
 
 I devoured resources on visual fundamentals, learned why things looked good or bad, and eventually learned that design was far more than just the visual aspect, but included strategy and the experience.
 
-From there I was hooked. I learned more and more about what it means to work in the web design industry as an interactive designer and branched out to learn about traditional graphic design as well.
+From there I was hooked. I learned more and more about what it means to work in the web design industry as an interactive designer and branched out to learn about traditional graphic design as well. This led me to majoring in Visual Communication Design in college to study how to create compelling designs for both print and digital environments more in-depth.
 
 ## Onward!
 

@@ -129,20 +129,30 @@ This is the newest podcast I’ve started listening to, but it doesn’t feel ne
 
 A few other podcasts I’ve listened to that have stopped producing episodes but still have good archives, or just didn’t quite make the top ten.
 
-* [The Big Web Show](https://5by5.tv/bigwebshow)
+* [About Buildings \+ Cities](https://aboutbuildingsandcities.org)
 
-* [Serial Season One](https://serialpodcast.org/season-one)
+* [City of the Future](https://www.sidewalklabs.com/blog/introducing-city-of-the-future-a-podcast-from-sidewalk-labs)
 
-* [The UX Intern](https://podcasts.apple.com/us/podcast/the-ux-intern/id684613036)
+* [Craig Groeschel Leadership Podcast](https://www.craiggroeschel.com/leadershippodcast)
+
+* [Lead to Win](https://michaelhyatt.com/leadtowin)
+
+* [Faithbridge Sermons](https://faithbridge.org/resources/sermons)
 
 * [Masters of Scale](https://mastersofscale.com)
 
-* [The Passion Podcast](https://podcasts.apple.com/us/podcast/the-passion-podcast/id78650928)
+* [Passion City Church DC Podcast](https://podcasts.apple.com/us/podcast/passion-city-church-dc-podcast/id1406150278)
 
-* [The Bible Project](https://bibleproject.com/podcasts/the-bible-project-podcast)
-
-* [About Buildings \+ Cities](https://aboutbuildingsandcities.org)
+* [Serial Season One](https://serialpodcast.org/season-one)
 
 * [Smashing Podcast](https://podcast.smashingmagazine.com)
 
-* [Passion City Church DC Podcast](https://podcasts.apple.com/us/podcast/passion-city-church-dc-podcast/id1406150278)
+* [The Bible Project](https://bibleproject.com/podcasts/the-bible-project-podcast)
+
+* [The Big Web Show](https://5by5.tv/bigwebshow)
+
+* [The Future of Cities](https://thefutureofcities.libsyn.com)
+
+* [The Passion Podcast](https://podcasts.apple.com/us/podcast/the-passion-podcast/id78650928)
+
+* [The UX Intern](https://podcasts.apple.com/us/podcast/the-ux-intern/id684613036)

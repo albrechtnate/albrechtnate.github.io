@@ -3,10 +3,14 @@ layout: default
 ---
 
 {{- content -}}
-<ul style="list-style: none; width: 78ch">
+<ul style=" list-style: none;
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(40ch, 1fr));
+			grid-gap: 2.5rem;
+			padding: 2.5rem;">
 {%- assign books = site.books | sort: 'title' -%}
 {% for book in books %}
-	<li style="margin-bottom: 2.5rem;">
+	<li>
 		<article>
 {%- assign images = book['Cover Image'] -%}
 {%- assign WebP2x = images['WebP 400h Image'] -%}
