@@ -7,6 +7,12 @@ Author(s):
 - Dan Cederholm
 Goodreads Item ID: 53142880
 Is Favorite: true
+Cover Image:
+  Original Image: "/uploads/Twenty-Bits-I-Learned-About-Design-Business-and-Community.jpg"
+  WebP 400h Image: "/uploads/Twenty-Bits-I-Learned-About-Design-Business-and-Community-400h.webp"
+  JPG 400h Image: "/uploads/Twenty-Bits-I-Learned-About-Design-Business-and-Community-400h.jpg"
+  WebP 200h Image: "/uploads/Twenty-Bits-I-Learned-About-Design-Business-and-Community-200h.webp"
+  JPG 200h Image: "/uploads/Twenty-Bits-I-Learned-About-Design-Business-and-Community-200h.jpg"
 ---
 
 Twenty Bits is a delightful little book by the delightful Dan Cederholm who is well-known within the design community for, among other things, co-founding [Dribbble.com](https://dribbble.com).
