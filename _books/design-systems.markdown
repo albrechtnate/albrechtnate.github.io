@@ -19,8 +19,8 @@ Cover Image:
 
 I suppose there’s no higher for a praise for a book than one that transforms your mindset towards a subject. Well, that’s what *Design Systems* accomplished for me.
 
-If I was asked to build a design system I’d jump to the tangible artifacts: an interface inventory and pattern library. These tools can provide us a shared set of patterns, but Alla compellingly shows that a shared set of patterns is useless without a shared *understanding* of the patterns.
+If asked to build a design system, I’d jump to the tangible artifacts: an interface inventory and pattern library. These tools can provide us a shared set of patterns, but Alla compellingly shows that a shared set of patterns is useless without a shared *understanding* of the patterns.
 
-Two of my significant takeaways: Creating a design *system* is far more about orchestrating systems-thinking than creating specific tangible artifacts. Secondly, a design system should explain where, why, when and how a specific component is to be used. Simply presenting your colors, for example, is insufficient. Instead explain how each color is to be used.
+Two significant takeaways: Creating a design *system* is far more about orchestrating systems-thinking than creating specific tangible artifacts. Secondly, a design system should explain where, why, when and how a specific component is to be used. Simply presenting your colors, for example, is insufficient. Instead explain how each color is to be used.
 
-Superbly written book backed by exhaustive research. I’ll certainly be re-reading this on my next design systems project.
+Well-written book backed by exhaustive research. I’ll certainly be re-reading this on my next design systems project.
