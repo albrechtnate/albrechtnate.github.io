@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   books:
     title: Books
-    output: false
+    output: true
   posts:
     title: Thoughts
     output: true
