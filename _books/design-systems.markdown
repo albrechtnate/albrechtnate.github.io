@@ -10,6 +10,7 @@ Amazon Item ID: B076H49W1G
 Goodreads Item ID: 35857970
 Is Favorite: true
 Cover Image:
+  Original Image: "/uploads/Design-Systems.png"
   WebP 400h Image: "/uploads/Design-Systems-400h.webp"
   JPG 400h Image: "/uploads/Design-Systems-400h.jpg"
   WebP 200h Image: "/uploads/Design-Systems-200h.webp"
