@@ -23,4 +23,4 @@ If asked to build a design system, I’d jump to the tangible artifacts: an inte
 
 Two takeaways: Creating a design *system* is far more about orchestrating systems-thinking than creating specific tangible artifacts. Secondly, explain when and how to use a component. Don’t simply present your colors. Explain how to use each.
 
-A well-written book backed by exhaustive research. I’ll certainly be re-reading this on my next design systems project.
+A well-written book backed by exhaustive research. I’ll be re-reading this on my next design systems project.
