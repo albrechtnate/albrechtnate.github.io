@@ -22,7 +22,7 @@ layout: default
 				<source type="image/jpg" srcset="{{ JPG1x }} 1x, {{ JPG2x }} 2x" />
 				<img src="{{ JPG1x }}" alt="Book cover of {{ book.title }}" />
 			</picture>
-			<h2 style="margin-bottom: 0;">{{ book.title }}</h2>
+			<h2 style="margin-bottom: 0;"><a href="{{ book.url }}">{{ book.title }}</a></h2>
 			{%- if book.Subtitle.size > 0 %}
 			<p class="subtitle" style="font-style: italic; font-size: 1.15rem; margin-top: 0;">{{ book.Subtitle }}</p>
 			{%- endif %}
