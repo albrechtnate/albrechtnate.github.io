@@ -1,0 +1,116 @@
+@font-face {
+	font-family: 'Domine';
+	src: url('/assets/theme/fonts/domine/domine.woff2') format('woff2'),
+		 url('/assets/theme/fonts/domine/domine.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Asap';
+	font-weight: normal;
+	src: url('/assets/theme/fonts/asap/asap-regular.woff2') format('woff2'),
+		 url('/assets/theme/fonts/asap/asap-regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Asap';
+	font-weight: bold;
+	src: url('/assets/theme/fonts/asap/asap-semibold.woff2') format('woff2'),
+		 url('/assets/theme/fonts/asap/asap-semibold.woff') format('woff');
+}
+
+:root {
+	--primary: #731D2C;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	background-color: var(--primary);
+	margin: 0;
+	padding: 25px min(5vw, 75px);
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+	box-sizing: border-box;
+	font-family: 'Asap', sans-serif;
+	font-size: 14.5px;
+	line-height: 1.35;
+}
+
+main {
+	background-color: white;
+	padding: min(max(35px, 5vw), 50px) min(max(20px, 5vw), 50px);
+	max-width: 540px;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+section {
+	padding: 0 min(max(15px, 3vw), 35px);
+}
+
+a {
+	font-weight: bold;
+	color: var(--primary);
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+hr {
+	border: none;
+	background-color: #DDDDDD;
+	height: 1px;
+	max-width: 135px;
+	margin: 30px auto;
+}
+
+ul {
+	padding-left: 15px;
+}
+
+li {
+	margin-bottom: 0.25em;
+}
+
+li:last-child {
+	margin-bottom: 0;
+}
+
+.center {
+	text-align: center;
+}
+
+.lede {
+	font-family: 'Domine';
+	font-size: 20px;
+	line-height: 1.5;
+	color: var(--primary);
+	text-align: center;
+	margin: 50px 0 40px 0;
+}
+
+.button {
+	display: inline-block;
+	background-color: var(--primary);
+	color: white;
+	text-decoration: none;
+	padding: 0.5em 0.75em;
+	border-radius: 4px;
+}
+
+.button:hover, .button:focus {
+	background-color: #a24454;
+	text-decoration: underline;
+}
+
+.button:focus, .button:active {
+	outline: var(--primary) 2px solid;
+}
+
+.button-standalone {
+	margin: 50px auto 0 auto;
+	display: block;
+	width: fit-content;
+}
