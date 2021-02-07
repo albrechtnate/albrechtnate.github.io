@@ -12,6 +12,12 @@ Author(s):
 Edition Number: 4th
 Amazon Item ID: 1118766571
 Goodreads Item ID: 18737922
+Cover Image:
+  Original Image: "/uploads/About-Face.jpg"
+  WebP 400h Image: "/uploads/About-Face-400h.webp"
+  JPG 400h Image: "/uploads/About-Face-400h.jpg"
+  WebP 200h Image: "/uploads/About-Face-200h.webp"
+  JPG 200h Image: "/uploads/About-Face-200h.jpg"
 ---
 
 This is a massive book but one worth the investment for anyone interested in IxD. Section one introduces the Goal-Directed design methodology—a systematic design process for interactive products centered on understanding users’ goals, needs and motivations.
