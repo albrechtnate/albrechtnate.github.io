@@ -20,8 +20,8 @@ Cover Image:
   JPG 200h Image: "/uploads/About-Face-200h.jpg"
 ---
 
-This is a massive book but one worth the investment for anyone interested in IxD. Section one introduces the Goal-Directed design methodology—a systematic design process for interactive products centered on understanding users’ goals, needs and motivations.
+This is a massive (text)book but one worth the investment for anyone interested in IxD. Section one introduces the Goal-Directed design methodology—a systematic design process for interactive products centered on understanding users’ goals, needs and motivations.
 
-Key to this process is using *personas* to translate user research into design reqs. I’d heard of personas before but was unclear on how to create and use them well and was confused by various differing explanations. Alan Cooper authored the concept so it was helpful learn his intention for them.
+Key to this process is using *personas* to translate user research into design requirements. I’d heard of personas before but was unclear on how to create and use them well and was confused by various differing explanations. Alan Cooper authored the concept so it was helpful learn his intention for them.
 
-Section two introduced helpful concepts like product posture, perpetual intermediates, excise, and interaction idioms  I was unfamiliar with; and three dived in-depth on common interaction idioms (like WIMP). I’m surprised this book wasn’t used in any of my IxD course because it would make for a great textbook.
+Sections 2 and 3 introduced helpful concepts like product posture, perpetual intermediates, excise, interaction idioms, and WIMP that I was completely unfamiliar with or had never given any thought. I’m surprised used as a text in any of my IxD course!
