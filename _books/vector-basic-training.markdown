@@ -10,6 +10,12 @@ Edition Number: 2nd
 Amazon Item ID: '0134176731'
 Goodreads Item ID: 26260941
 Is Favorite: true
+Cover Image:
+  Original Image: "/uploads/Vector-Basic-Training.jpg"
+  WebP 400h Image: "/uploads/Vector-Basic-Training-400h.webp"
+  JPG 400h Image: "/uploads/Vector-Basic-Training-400h.jpg"
+  WebP 200h Image: "/uploads/Vector-Basic-Training-200h.webp"
+  JPG 200h Image: "/uploads/Vector-Basic-Training-200h.jpg"
 ---
 
 The class I took on [Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator) in college used a textbook that explained how to use the program through follow-along lessons. In theory this sounds great, but in practice it was anything but.
