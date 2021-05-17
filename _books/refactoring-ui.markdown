@@ -21,4 +21,4 @@ When I first started designing websites I knew they fell far short of those I ad
 
 This book corrects many of the beginner mistakes I made and that I frequently see from my UX/UI students. It also discloses a number of “tricks of the trade” that are hard to notice on your own until you’ve done lots of work. Many of these I’ve already incorporated and do automatically, so I must be doing something right!
 
-Quick read with zero fluff… Only disappointment was that it had no new tips beyond what’s [available on Twitter](https://twitter.com/i/events/994601867987619840).
+Quick read with zero fluff, lots of before & after shots, and screencasts too. Just wish it had more tips! If you can’t get the book, check out the tips [available on Twitter](https://twitter.com/i/events/994601867987619840).
