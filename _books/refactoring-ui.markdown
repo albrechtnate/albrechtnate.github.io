@@ -15,3 +15,10 @@ Cover Image:
   JPG 200h Image: "/uploads/Refactoring-UI-200h.jpeg"
 ---
 
+[Refactoring UI](https://www.refactoringui.com/) is superb book of practical UI design tips that’d be game-changing for anyone starting in user interface design.
+
+When I first started designing websites I knew they fell far short of those I admired, but I couldn’t quite put my finger on *why*. It was the classic “[gap problem](https://vimeo.com/85040589)” in which I knew what I was creating wasn’t that great but didn’t know how to improve. So frustrating!
+
+This book corrects many of the beginner mistakes I made and that I frequently see from my UX/UI students. It also discloses a number of “tricks of the trade” that are hard to notice on your own until you’ve done lots of work. Many of these I’ve already incorporated and do automatically now, so that must mean I’m doing something right!
+
+Quick read with zero fluff… Only disappointment was that there was no new tips beyond what is [freely available on Twitter](https://twitter.com/i/events/994601867987619840).
