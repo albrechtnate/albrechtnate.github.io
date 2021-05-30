@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-layout: default
+layout: landing
 ---
 
 Hi Mars! {{site.url}}
