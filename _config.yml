@@ -19,9 +19,9 @@ defaults:
     path: ''
     type: books
   values:
-    layout: 'book'
+    layout: book
     Subtitle: 
-    Author(s):
+    Author(s): 
     Edition Number: 
     Amazon Item ID: 
     Goodreads Item ID: 
