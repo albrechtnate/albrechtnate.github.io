@@ -1,21 +1,122 @@
 ---
-title: Currently Playing
+title: Currently Playing (New!)
 position: 0
 layout: base
 ---
 
-<script src="/assets/currently-playing/jquery.min.js" defer></script>
-<script src="/assets/currently-playing/currently-playing.js" defer></script>
+<div id="console"></div>
+<iframe id="spotify_player" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<style>#artwork { width: 150px; }</style>
+<script>
+  const pageConsole = document.getElementById('console');
+  const spotifyPlayer = document.getElementById('spotify_player');
+  var accessToken;
+  let currentlyPlaying;
+  let authErrors = 0;
 
-<div id="currently_playing">
-  <img id="artwork" src="">
-  <div id="track"></div>
-  <p><a id="preview_link" href=""></a></p>
-  <audio id="player" controls>
-    <source src="" type="audio/mp3" />
-  </audio>
-</div>
+  async function refreshToken(force = false){
+      const qs = force ? '?refresh=true' : '';
+     accessToken = await fetch('https://api.nathanalbrecht.com/spotify_refresh_low_priviledge_access_token' + qs)
+        .then(res => res.text())
+        .catch(err => err.message);
 
-<iframe id="spotify_player" src="https://open.spotify.com/embed/track/4evmHXcjt3bTUHD1cvny97" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    // accessToken = json['access_token'];
+
+    // const timeToRefresh = json['expiration_time'] + 3300000 - Date.now();
+
+    console.log('Refreshed Access Token');
+
+    // setTimeout(refreshToken, timeToRefresh);
+  };
+
+  async function getSongs()
+  {
+      if (document.visibilityState === 'hidden')
+      {
+          console.log('Waiting till page is visible again to avoid unnessecary work.');
+          return document.addEventListener("visibilitychange", function() {
+              console.log('Page is now visible. Let’s update currently playing.');
+              getSongs();
+          }, {once: true});
+      }
+
+      return await fetch("https://api.spotify.com/v1/me/player/currently-playing", {
+        method: "GET",
+        headers: {
+          "Authorization": `Bearer ${accessToken}`
+        },
+        credentials: "same-origin"
+      }).then(res => {
+          if (res.status !== 401)
+          {
+            authErrors = 0;
+          }
+
+          if (res.status === 200)
+          {
+              res.json().then(json => {
+                  console.log(json);
+
+                  if (! json.is_playing)
+                  {
+                    pageConsole.innerText = 'Nothing currently playing. :(';
+                    spotifyPlayer.style.display = 'hidden';
+                    console.log('Nothing currently playing. Checking in 20s.');
+                    setTimeout(getSongs, 30 * 1000);
+                  }
+                  else
+                  {
+                    const data = {
+                        trackId: json.item.id,
+                        trackTitle: json.item.name,
+                        artist: json.item.artists.map(artist => artist.name).join(', '),
+                        msRemaining: json.item.duration_ms - json.progress_ms
+                    };
+
+                    const cp = 'Playing: ' + data.trackTitle + ' by ' + data.artist;
+
+                    if (currentlyPlaying !== cp)
+                    {
+                        console.log(cp);
+                        currentlyPlaying = cp;
+                        spotifyPlayer.src = `https://open.spotify.com/embed/track/${data.trackId}`;
+                        pageConsole.innerText = '';
+                        spotifyPlayer.style.display = 'block';
+                    }
+
+                    const refreshInterval = 30 * 1000;
+                    const remaining = data.msRemaining + 1000; // 1s delay to avoid hitting endpoint too
+
+                    const itvl = remaining - refreshInterval <= refreshInterval / 2 ? remaining : refreshInterval;
+                    console.log('Next Interval: ' + itvl / 1000);
+
+                    setTimeout(getSongs, itvl);
+                  }
+              });
+          }
+          else
+          {
+              if (res.status === 204)
+              {
+                  pageConsole.innerText = 'Nothing currently playing. :(';
+                  spotifyPlayer.style.display = 'hidden';
+                  console.log('Nothing currently playing. Checking in 20s.');
+                  setTimeout(getSongs, 30 * 1000);
+              }
+
+              if (res.status === 401)
+              {
+                  authErrors++;
+                  console.log('Bad accessToken');
+                  setTimeout(
+                      refreshToken(authErrors > 1).then(() => getSongs()),
+                      (authErrors - 1) * 10 * 1000
+                  );
+              }
+          }
+      })
+        .catch(err => err.message);
+  };
+
+  getSongs();
+</script>
