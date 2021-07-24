@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Book Review: {{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/theme/styles.css">
+    <link rel="icon" href="/assets/theme/images/favicon/cropped-icon-32x32.png" sizes="32x32">
+    <link rel="icon" href="/assets/theme/images/favicon/cropped-icon-192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="/assets/theme/images/favicon/cropped-icon-180x180.png">
+    <meta name="msapplication-TileImage" content="/assets/theme/images/favicon/cropped-icon-270x270.png">
+</head>
+
+<body>
+	<main>
+        <a href="/thoughts/recommended-reading">&larr; Back</a>
+		{%- assign images = page['Cover Image'] -%}
+        {%- assign WebP2x = images['WebP 400h Image'] -%}
+        {%- assign JPG2x = images['JPG 400h Image'] -%}
+        {%- assign WebP1x = images['WebP 200h Image'] -%}
+        {%- assign JPG1x = images['JPG 200h Image'] %}
+        <picture>
+            <source type="image/webp" srcset="{{ WebP1x }} 1x, {{ WebP2x }} 2x" /> 
+            <source type="image/jpg" srcset="{{ JPG1x }} 1x, {{ JPG2x }} 2x" />
+            <img src="{{ JPG1x }}" height="200" alt="Book cover of {{ page.title }}" />
+        </picture>
+        <h1 style="margin-bottom: 0;">{{ page.title }}</h1>
+        {%- if page.Subtitle.size > 0 %}
+        <p class="subtitle" style="font-style: italic; font-size: 1.15rem; margin-top: 0;">{{ page.Subtitle }}</p>
+        {%- endif %}
+        <section>
+            {{ content | markdownify | strip_newlines }}
+        </section>
+	</main>
+</body>
+
+</html>
