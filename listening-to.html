@@ -4,7 +4,8 @@ position: 0
 layout: base
 ---
 
-<div id="console"></div>
+<h2>Currently listening to…</h2>
+<div id="console" style="text-align: center"></div>
 <iframe id="spotify_player" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <script>
@@ -59,8 +60,8 @@ layout: base
 
                   if (! json.is_playing)
                   {
-                    pageConsole.innerText = 'Nothing currently playing. :(';
-                    spotifyPlayer.style.display = 'hidden';
+                    pageConsole.innerText = 'Bummer! Nathan is not listenting to anything at the moment. 🙁';
+                    spotifyPlayer.style.display = 'none';
                     console.log('Nothing currently playing. Checking in 20s.');
                     setTimeout(getSongs, 30 * 1000);
                   }
@@ -98,8 +99,8 @@ layout: base
           {
               if (res.status === 204)
               {
-                  pageConsole.innerText = 'Nothing currently playing. :(';
-                  spotifyPlayer.style.display = 'hidden';
+                  pageConsole.innerText = 'Bummer! Nathan is not listenting to anything at the moment. 🙁';
+                  spotifyPlayer.style.display = 'none';
                   console.log('Nothing currently playing. Checking in 20s.');
                   setTimeout(getSongs, 30 * 1000);
               }
@@ -109,7 +110,10 @@ layout: base
                   authErrors++;
                   console.log('Bad accessToken');
                   setTimeout(
-                      refreshToken(authErrors > 1).then(() => getSongs()),
+                      function(){
+                        refreshToken(authErrors > 1)
+                        .then(() => getSongs())
+                      },
                       (authErrors - 1) * 10 * 1000
                   );
               }
