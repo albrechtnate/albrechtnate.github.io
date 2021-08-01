@@ -60,7 +60,7 @@ layout: base
 
                   if (! json.is_playing)
                   {
-                    pageConsole.innerText = 'Bummer! Nathan is not listenting to anything at the moment. 🙁';
+                    pageConsole.innerText = 'Bummer! Nathan is not listening to anything at the moment. 🙁';
                     spotifyPlayer.style.display = 'none';
                     console.log('Nothing currently playing. Checking in 20s.');
                     setTimeout(getSongs, 30 * 1000);
@@ -99,7 +99,7 @@ layout: base
           {
               if (res.status === 204)
               {
-                  pageConsole.innerText = 'Bummer! Nathan is not listenting to anything at the moment. 🙁';
+                  pageConsole.innerText = 'Bummer! Nathan is not listening to anything at the moment. 🙁';
                   spotifyPlayer.style.display = 'none';
                   console.log('Nothing currently playing. Checking in 20s.');
                   setTimeout(getSongs, 30 * 1000);
