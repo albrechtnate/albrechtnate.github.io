@@ -1,0 +1,21 @@
+---
+title: Currently Playing
+position: 0
+layout: base
+---
+
+<script src="/assets/currently-playing/jquery.min.js" defer></script>
+<script src="/assets/currently-playing/currently-playing.js" defer></script>
+
+<style>#artwork { width: 150px; }</style>
+
+<div id="currently_playing">
+  <img id="artwork" src="">
+  <div id="track"></div>
+  <p><a id="preview_link" href=""></a></p>
+  <audio id="player" controls>
+    <source src="" type="audio/mp3" />
+  </audio>
+</div>
+
+<iframe id="spotify_player" src="https://open.spotify.com/embed/track/4evmHXcjt3bTUHD1cvny97" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
