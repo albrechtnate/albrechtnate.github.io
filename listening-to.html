@@ -6,12 +6,12 @@ layout: base
 
 <h2>Currently listening to…</h2>
 <div id="console" style="text-align: center"></div>
-<iframe id="spotify_player" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe id="spotify_player" width="440" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <script>
   const pageConsole = document.getElementById('console');
   const spotifyPlayer = document.getElementById('spotify_player');
-  var accessToken;
+  var accessToken = 'BQBRC2AgSh1F3Y0CLv3AaAeW2U39IVcGo_J-ucatv_LIt3IU8LAhHgF7wJ30ENHG40CBebik8AJuN8AfVzkkKjUe5Rp5GjBZkekJu8YCCQahFYvVEnF-_JwAiXzoB0NbbaIBeFHUkGcRJ_UMDCP65tMkWn_EqA';
   let currentlyPlaying;
   let authErrors = 0;
 
@@ -41,7 +41,7 @@ layout: base
           }, {once: true});
       }
 
-      return await fetch("https://api.spotify.com/v1/me/player/currently-playing", {
+      return await fetch("https://api.spotify.com/v1/me/player/currently-playing?additional_types=track,episode", {
         method: "GET",
         headers: {
           "Authorization": `Bearer ${accessToken}`
@@ -58,7 +58,7 @@ layout: base
               res.json().then(json => {
                   console.log(json);
 
-                  if (! json.is_playing)
+                  if (! json.is_playing || json.item === null)
                   {
                     pageConsole.innerText = 'Bummer! Nathan is not listening to anything at the moment. 🙁';
                     spotifyPlayer.style.display = 'none';
@@ -67,22 +67,38 @@ layout: base
                   }
                   else
                   {
-                    const data = {
-                        trackId: json.item.id,
-                        trackTitle: json.item.name,
-                        artist: json.item.artists.map(artist => artist.name).join(', '),
-                        msRemaining: json.item.duration_ms - json.progress_ms
-                    };
+                    let data, cp;
 
-                    const cp = 'Playing: ' + data.trackTitle + ' by ' + data.artist;
+                    if (json.currently_playing_type === 'track')
+                    {
+                      data = {
+                          id: json.item.id,
+                          trackTitle: json.item.name,
+                          artist: json.item.artists.map(artist => artist.name).join(', '),
+                          msRemaining: json.item.duration_ms - json.progress_ms
+                      };
+                      cp = 'Playing: ' + data.trackTitle + ' by ' + data.artist;
+                    }
+                    else if (json.currently_playing_type === 'episode')
+                    {
+                      data = {
+                          type: 'episode',
+                          id: json.item.id,
+                          episodeTitle: json.item.name,
+                          podcastTitle: json.item.show.name,
+                          msRemaining: json.item.duration_ms - json.progress_ms
+                      };
+                      cp = 'Playing: “' + data.episodeTitle + '” from the ' + data.podcastTitle;
+                    }
 
                     if (currentlyPlaying !== cp)
                     {
                         console.log(cp);
                         currentlyPlaying = cp;
-                        spotifyPlayer.src = `https://open.spotify.com/embed/track/${data.trackId}`;
+                        spotifyPlayer.src = `https://open.spotify.com/embed/${json.currently_playing_type}/${data.id}`;
                         pageConsole.innerText = '';
                         spotifyPlayer.style.display = 'block';
+                        spotifyPlayer.height = json.currently_playing_type === 'episode' ? 232 : 80;
                     }
 
                     const refreshInterval = 30 * 1000;
