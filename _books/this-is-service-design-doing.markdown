@@ -21,6 +21,6 @@ Cover Image:
 
 As a non-service design professional reading the book to complement my UX focus, I found the book to be a bit overly detailed, but 2 ideas from it will inform my future design process:
 
-1. \*\*The design process is a cycle of divergence and convergence—creating and reducing options.\*\* User research (diverge), analysis & visualization (converge) → idea generation (diverge), idea selection (converge) → explorative prototyping (diverge), evaluative prototyping (converge)… Knowing which stage your are in at any point is key to a smooth design process.
+1. **The design process is a cycle of divergence and convergence—creating and reducing options.** User research (diverge), analysis & visualization (converge) → idea generation (diverge), idea selection (converge) → explorative prototyping (diverge), evaluative prototyping (converge)… Knowing which stage your are in at any point is key to a smooth design process.
 
-2. \*\*Avoid decision paralysis by prototyping.\*\* Do, don't talk. (Ideas work in our heads—less so in practice.) Prototype multiple ideas simultaneously to reduce risk. Be specific about the purpose of the prototype: is it to explore, evaluate, or communicate? What questions will it answer: value, look and feel, feasibility, how it will integrate with other components? Don’t waste time on early first drafts!
+2. **Avoid decision paralysis by prototyping.** Do, don't talk. Ideas work in our heads—less so in practice. Prototype multiple ideas simultaneously to reduce risk. Be specific about the purpose of the prototype: is it to explore, evaluate, or communicate? What questions will it answer: value, look and feel, feasibility, how it will integrate with other components? Don’t waste time on early first drafts!
