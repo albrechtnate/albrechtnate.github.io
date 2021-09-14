@@ -19,14 +19,8 @@ Cover Image:
   JPG 200h Image: "/uploads/This-is-Service-Design-Doing-200h.jpeg"
 ---
 
-My major takeaways from the book:
+As a non-service design professional reading the book to complement my UX focus, I found the book to a bit overly detailed, but there were a few ideas that will be informing my future design process:
 
-* All design is continuing cycles of divergence and convergence.
+1. **The design process is a cycle of divergence and convergence—creating and reducing options. **User research (diverge), analysis & visualization (converge) → idea generation (diverge), idea selection (converge) → explorative prototyping (diverge), evaluative prototyping (converge)… Knowing which stage your are in at any point is key to a smooth design process.\
 
-* Sh\*\*y first drafts
-
-* Favor prototypes over discu
-
-*This is Service Design Doing* is best-suited for those interested in leading service design projects within corporate environments. The book is fairly comprehensive
-
-As a non-service design professional reading the book to pull insights into my product design/UX design process I found the book to be a bit too in-the-weeds for my liking. The pri
+2. **Avoid decision paralysis by prototyping. **Do, don't talk. (Ideas always work in our heads—less so in the real world.) Prototype multiple ideas simultaneously to reduce risk. Be specific about the purpose of the prototype: is it to explore, evaluate, or communicate? What questions is it attempting to answer: value, look and feel, feasibility, how it will integrate with other components?
