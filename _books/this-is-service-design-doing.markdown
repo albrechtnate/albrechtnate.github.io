@@ -19,3 +19,14 @@ Cover Image:
   JPG 200h Image: "/uploads/This-is-Service-Design-Doing-200h.jpeg"
 ---
 
+My major takeaways from the book:
+
+* All design is continuing cycles of divergence and convergence.
+
+* Sh\*\*y first drafts
+
+* Favor prototypes over discu
+
+*This is Service Design Doing* is best-suited for those interested in leading service design projects within corporate environments. The book is fairly comprehensive
+
+As a non-service design professional reading the book to pull insights into my product design/UX design process I found the book to be a bit too in-the-weeds for my liking. The pri
