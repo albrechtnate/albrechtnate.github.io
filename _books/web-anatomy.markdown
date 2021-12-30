@@ -9,6 +9,12 @@ Author(s):
 - Jared Spool
 Amazon Item ID: '0321635027'
 Goodreads Item ID: 6355182
+Cover Image:
+  Original Image: "/uploads/web-anatomy.jpg"
+  WebP 400h Image: "/uploads/web-anatomy-400h.webp"
+  JPG 400h Image: "/uploads/web-anatomy-400h.jpeg"
+  WebP 200h Image: "/uploads/web-anatomy-200h.webp"
+  JPG 200h Image: "/uploads/web-anatomy-200h.jpeg"
 ---
 
 Design patterns (generic UI idioms like an accordion) and components (styled and coded instances of patterns) are familiar tools for rapidly building interfaces. Web Anatomy details a third tool, *interaction design frameworks.*
