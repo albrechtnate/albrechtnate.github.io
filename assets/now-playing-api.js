@@ -60,7 +60,8 @@
                         const data = {
                             id: json.item.id,
                             title: json.item.name,
-                            msRemaining: json.item.duration_ms - json.progress_ms,
+                            progress: json.progress_ms,
+                            duration: json.item.duration_ms,
                         };
     
                         if (json.currently_playing_type === 'track')
@@ -85,7 +86,7 @@
     
                         updateNowPlaying(data);
     
-                        const remaining = data.msRemaining + 1000; // 1s delay to avoid hitting endpoint too soon.
+                        const remaining = json.item.duration_ms - json.progress_ms + 1000; // 1s delay to avoid hitting endpoint too soon.
                         const interval = remaining - refreshInterval <= refreshInterval / 2 ? remaining : refreshInterval;
     
                         setTimeout(getSongs, interval);
