@@ -138,5 +138,12 @@ layout: base
         .catch(err => err.message);
   };
 
-  getSongs();
+  if (accessToken === undefined)
+  {
+    refreshToken().then(() => getSongs());
+  }
+  else
+  {
+    getSongs();
+  }
 </script>
