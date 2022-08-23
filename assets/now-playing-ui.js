@@ -5,7 +5,7 @@
 
     let progressAbortController = null;
     const progress = document.createElement('span');
-    nowPlaying.appendChild(progress);
+    nowPlaying.after(progress);
 
     window.addEventListener('nowPlayingUpdate', event => {
         updateNowPlaying(event.detail);
