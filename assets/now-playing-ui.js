@@ -43,11 +43,16 @@
     function startProgressClock(progress, duration)
     {
         const controller = new AbortController();
-        animationInterval(1000, controller.signal, () => {
-            const progressString = formatProgress(progress++, duration);
+
+        const callback = () => {
+            const progressString = formatProgress(progress, duration);
+            progress += 1000;
             console.log(progressString);
             progressElement.textContent = ` (${progressString})`;
-        });
+        };
+
+        callback();
+        animationInterval(1000, controller.signal, callback);
         return controller;
     }
 
