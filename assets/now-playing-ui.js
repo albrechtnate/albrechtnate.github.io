@@ -47,7 +47,6 @@
         const callback = () => {
             const progressString = formatProgress(progress, duration);
             progress += 1000;
-            console.log(progressString);
             progressElement.textContent = ` (${progressString})`;
         };
 
