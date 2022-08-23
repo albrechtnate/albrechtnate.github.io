@@ -115,3 +115,19 @@ li:last-child {
 	display: block;
 	width: fit-content;
 }
+
+.icon-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	gap: 15px;
+}
+
+.icon-list li {
+	display: flex;
+}
+
+.icon-list span:first-child {
+	margin-right: 10px;
+}
