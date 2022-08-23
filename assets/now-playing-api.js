@@ -65,16 +65,21 @@
     
                         if (json.currently_playing_type === 'track')
                         {
+                            const listStrings = arr => {
+                                if (arr.length <= 1) return arr[0];
+                                return arr.slice(0, -1).join(', ') + ' and ' + arr.at(-1);
+                            }
+
                             Object.assign(data, {
                                 type: 'track',
-                                artist: json.item.artists.map(artist => artist.name).join(', '),
+                                artist: listStrings(json.item.artists.map(artist => artist.name)),
                             });
                         }
                         else if (json.currently_playing_type === 'episode')
                         {
                             Object.assign(data, {
                                 type: 'episode',
-                                podcastTitle: json.item.show.name,
+                                podcast: json.item.show.name,
                             });
                         }
     
@@ -113,8 +118,8 @@
     function updateNowPlaying(data = null)
     {
         const event = new CustomEvent('nowPlayingUpdate', { detail: {
-            active: false,
-            data: data
+            active: data !== null,
+            metadata: data
         }});
         window.dispatchEvent(event);
     }
