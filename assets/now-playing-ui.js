@@ -30,9 +30,7 @@
                 content = `Currently listening to “${metadata.title}” from the ${metadata.podcast} podcast`;
             }
 
-            progressAbortController = startProgressClock(metadata.progress, metadata.duration, () => {
-                progress.textContent = ' ' + formatProgress(progress++, duration);
-            });
+            progressAbortController = startProgressClock(metadata.progress, metadata.duration);
         }
         else
         {
@@ -42,10 +40,12 @@
         nowPlaying.textContent = content;
     }
 
-    function startProgressClock(progress, duration, callback)
+    function startProgressClock(progress, duration)
     {
         const controller = new AbortController();
-        animationInterval(1000, controller, callback);
+        animationInterval(1000, controller, function(){
+            progress.textContent = ' ' + formatProgress(progress++, duration);
+        });
         return controller;
     }
 
