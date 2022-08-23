@@ -51,7 +51,7 @@
 
     function formatProgress(progressMs, durationMs)
     {
-        return `${formatMs(metadata.progress)}/${formatMs(metadata.duration)}`;
+        return `${formatMs(progressMs)}/${formatMs(durationMs)}`;
     }
 
     function formatMs(ms) {
