@@ -8,7 +8,7 @@
 
     function updateNowPlaying(data)
     {
-        const content = '';
+        let content = '';
 
         if (data.active)
         {
