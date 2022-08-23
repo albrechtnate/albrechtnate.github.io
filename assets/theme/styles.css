@@ -128,6 +128,6 @@ li:last-child {
 	display: flex;
 }
 
-.icon-list span:first-child {
+.icon-list li > span:first-child {
 	margin-right: 10px;
 }

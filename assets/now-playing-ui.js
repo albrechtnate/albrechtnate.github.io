@@ -4,8 +4,8 @@
     const defaultText = nowPlaying.textContent;
 
     let progressAbortController = null;
-    const progress = document.createElement('span');
-    nowPlaying.after(progress);
+    const progressElement = document.createElement('span');
+    nowPlaying.after(progressElement);
 
     window.addEventListener('nowPlayingUpdate', event => {
         updateNowPlaying(event.detail);
@@ -34,7 +34,7 @@
         }
         else
         {
-            progress.textContent = '';
+            progressElement.textContent = '';
         }
 
         nowPlaying.textContent = content;
@@ -44,7 +44,9 @@
     {
         const controller = new AbortController();
         animationInterval(1000, controller, function(){
-            progress.textContent = ' ' + formatProgress(progress++, duration);
+            const progressString = formatProgress(progress++, duration);
+            console.log(progressString);
+            progressElement.textContent = ` (${progressString})`;
         });
         return controller;
     }
