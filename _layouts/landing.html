@@ -3,27 +3,39 @@
 
 <head>
     <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
     <title>Nathan Albrecht - Interactive Experience Designer</title>
-    <meta name="description" content="The design portfolio and writings of Nathan Albrecht, an interactive experience designer passionate about the intersection of design and technology.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta property="og:title" content="Nathan Albrecht - Interactive Experience Designer"/>
-    <meta property="og:image" content="{{site.url}}/assets/opengraph-images/Nathan-Albrecht-OpenGraph-Image.png"/>
-    <meta property="og:description" content="The design portfolio and writings of Nathan Albrecht, an interactive experience designer passionate about the intersection of design and technology."/>
-    <meta property="og:url "content="{{site.url}}" />
+
+	<link rel="preconnect" href="https://api.spotify.com">
+
     <link rel="stylesheet" href="/assets/theme/styles.css">
+
+	<link rel="preload" href="https://nathanalbrecht.com/assets/theme/fonts/asap/asap-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://nathanalbrecht.com/assets/theme/fonts/domine/domine.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://api.nathanalbrecht.com/spotify_refresh_low_priviledge_access_token">
+
+	<script src="/assets/now-playing-api.js" defer></script>
+	<script src="/assets/now-playing-ui.js" defer></script>
+
     <link rel="icon" href="/assets/theme/images/favicon/cropped-icon-32x32.png" sizes="32x32">
     <link rel="icon" href="/assets/theme/images/favicon/cropped-icon-192x192.png" sizes="192x192">
     <link rel="apple-touch-icon-precomposed" href="/assets/theme/images/favicon/cropped-icon-180x180.png">
     <meta name="msapplication-TileImage" content="/assets/theme/images/favicon/cropped-icon-270x270.png">
+
+	<meta name="description" content="The design portfolio and writings of Nathan Albrecht, an interactive experience designer passionate about the intersection of design and technology.">
+    <meta property="og:title" content="Nathan Albrecht - Interactive Experience Designer"/>
+    <meta property="og:image" content="{{site.url}}/assets/opengraph-images/Nathan-Albrecht-OpenGraph-Image.png"/>
+    <meta property="og:description" content="The design portfolio and writings of Nathan Albrecht, an interactive experience designer passionate about the intersection of design and technology."/>
+    <meta property="og:url "content="{{site.url}}" />
 </head>
 
 <body>
 	<main>
-		<img src="/assets/theme/images/logo.svg" width="150.8674" height="75px" alt="Logo: Nathan Albrecht - Interactive Exerience Designer">
+		<img src="/assets/theme/images/logo.svg" width="150.8674" height="75" alt="Logo: Nathan Albrecht - Interactive Exerience Designer">
 		<p class="lede">Hi! I’m Nathan Albrecht, an interactive experience designer who is passionate about the intersection of design and technology.</p>
 		<section>
 			<p>I currently work at <a href="https://www.fontspring.com">Fontspring</a> designing and developing the best platform to browse, purchase, and manage fonts.</p>
-			<!--<p>In my spare time I teach undergraduate interactive design courses as an adjunct instructor at <a href="https://www.cedarville.edu">Cedarville University</a>.</p>-->
 			<hr>
 			<ul>
 				<li>View my design work on <a href="https://www.behance.net/albrechtnate">Behance</a> or <a href="https://dribbble.com/albrechtnate">Dribbble</a>.</li>
@@ -38,9 +50,6 @@
 			<li><span>🎵</span><a href="https://www.last.fm/user/albrechtnate"><span id="now-playing">Music I’m listening to.</span></a></li>
 		</ul>
 	</main>
-
-	<script src="/assets/now-playing-api.js"></script>
-	<script src="/assets/now-playing-ui.js"></script>
 </body>
 
 </html>
