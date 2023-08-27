@@ -46,8 +46,12 @@
 
         const callback = () => {
             const progressString = formatProgress(progress, duration);
-            progress += 1000;
             progressElement.textContent = ` (${progressString})`;
+            if ( progress > duration )
+            {
+                return controller.abort();
+            }
+            progress += 1000;
         };
 
         callback();
@@ -57,6 +61,7 @@
 
     function formatProgress(progressMs, durationMs)
     {
+        progressMs = Math.min(progressMs, durationMs);
         return `${formatMs(progressMs)}/${formatMs(durationMs)}`;
     }
 
