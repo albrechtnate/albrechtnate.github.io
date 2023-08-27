@@ -1,20 +1,6 @@
 (function(){
-
-    let accessToken;
-    let authErrors = 0;
     
     getSongs(); // Get currently playing track/podcast and poll for changes.
-    
-    async function refreshAccessToken(force = false)
-    {
-        const endpoint = new URL('https://api.nathanalbrecht.com/spotify_refresh_low_priviledge_access_token');
-    
-        if (force) endpoint.searchParams.set('refresh', 'true');
-    
-        accessToken = await fetch(endpoint.toString())
-            .then(res => res.text())
-            .catch(err => err.message);
-    };
     
     async function getSongs()
     {
@@ -27,23 +13,7 @@
             }, { once: true });
         }
     
-        if (accessToken === undefined)
-        {
-            await refreshAccessToken();
-        }
-    
-        await fetch("https://api.spotify.com/v1/me/player/currently-playing?additional_types=track,episode", {
-            method: 'GET',
-            headers: {
-                Authorization: `Bearer ${accessToken}`
-            },
-            credentials: 'same-origin'
-        }).then(res => {
-    
-            if (res.status !== 401)
-            {
-                authErrors = 0;
-            }
+        await fetch('https://workers.nathanalbrecht.com/currently-playing').then(res => {
     
             if (res.status === 200)
             {
@@ -100,15 +70,6 @@
                     // Not listening to anything.
                     updateNowPlaying();
                     setTimeout(getSongs, refreshInterval);
-                }
-    
-                if (res.status === 401)
-                {
-                    authErrors++;
-                    setTimeout(
-                        () => { refreshAccessToken(authErrors > 1).then(() => getSongs()) },
-                        (authErrors - 1) * 10 * 1000
-                    );
                 }
             }
     
