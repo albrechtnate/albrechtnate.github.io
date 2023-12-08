@@ -1,21 +1,19 @@
 @font-face {
 	font-family: 'Domine';
-	src: url('/assets/theme/fonts/domine/domine.woff2') format('woff2'),
-		 url('/assets/theme/fonts/domine/domine.woff') format('woff');
+	src: url('/assets/theme/fonts/domine/domine.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Asap';
 	font-weight: normal;
-	src: url('/assets/theme/fonts/asap/asap-regular.woff2') format('woff2'),
-		 url('/assets/theme/fonts/asap/asap-regular.woff') format('woff');
+	src: url('/assets/theme/fonts/asap/asap-regular.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Asap';
 	font-weight: bold;
-	src: url('/assets/theme/fonts/asap/asap-semibold.woff2') format('woff2'),
-		 url('/assets/theme/fonts/asap/asap-semibold.woff') format('woff');
+	font-display: swap;
+	src: url('/assets/theme/fonts/asap/asap-semibold.woff2') format('woff2');
 }
 
 :root {
